@@ -1,0 +1,24 @@
+```statblock
+layout: Daggerheart
+image: 
+name: TANGLE BRAMBLE
+tier: Tier 1
+type: Minion
+desc: An animate, blood-drinking tumbleweed.
+mt: Consume, drain, entangle
+scores: [11, 0/0, 1, 1]
+atk: 1d20-1
+atk_roll: .
+atk_dice: 1d20-1
+dmg: Thorns - M
+dmg_roll: 2 phhy
+dmg_dice: 1d0+2
+exp: 
+feats: 
+  - name: Minion (4) - Passive
+    desc: The Bramble is defeated when they take any damage. For every 4 damage a PC deals to the Tangle Bramble, defeat an additional Minion within range the attack would succeed against.
+  - name: Group Attack - Action
+    desc: Spend a Fear to choose a target and spotlight all Tangle Brambles within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 2 physical damage each. Combine this damage.
+  - name: Drain and Multiply - Reaction
+    desc: When an attack from the Bramble causes a target to mark HP and there are three or more Tangle Bramble Minions within Close range, you can combine the Minions into a Tangle Bramble Swarm Horde. The Horde’s HP is equal to the number of Minions combined.
+```
