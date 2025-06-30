@@ -21,7 +21,6 @@ if not all(isinstance(adversary, dict) for adversary in data):
 
 # Process each adversary and generate the markdown output
 for adversary in data:
-    print(f"Processing adversary: {adversary['name']}")
     markdown_output =  f"""---
 layout: Daggerheart
 image:
@@ -72,6 +71,4 @@ feats:
     output_file_path = os.path.join(w_dir, f'adversaries\statblock\Tier {adversary['tier']}\{adversary['name'].replace(':','')}.md')
     with open(output_file_path, 'w') as output_file:
         output_file.write(markdown_output)
-    print(f"Markdown file created: {output_file_path}")
-    # Print the markdown output to the console
-    print(markdown_output)
+    print(f"Tier {adversary['tier']}\{adversary['name'].replace(':','')}.md'")
