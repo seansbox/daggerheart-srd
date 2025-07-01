@@ -20,6 +20,7 @@ statblock_dir = os.path.join('..','adversaries','statblocks')
 if not os.path.exists(statblock_dir):
   os.makedirs(statblock_dir)
 
+# Iterate through each adversary in the JSON data and generate the markdown output
 for adversary in data:
     markdown_output =  f"""---
 layout: Daggerheart
@@ -57,11 +58,15 @@ feats:
 ---
 """
 
+    # Ensure the tier directory exists
     tier_dir = os.path.join(statblock_dir, f'Tier {adversary["tier"]}')
     if not os.path.exists(tier_dir):
       os.makedirs(tier_dir)
 
+    # Write the markdown output to a file
     statblock_output = os.path.join(w_dir, statblock_dir, f'Tier {adversary['tier']}',f'{adversary['name'].replace(':','')}.md')
     with open(statblock_output, 'w') as statblock:
         statblock.write(markdown_output)
+    
+    # Print the output file path for confirmation
     print(f"Tier {adversary['tier']}/{adversary['name'].replace(':','')}.md'")
