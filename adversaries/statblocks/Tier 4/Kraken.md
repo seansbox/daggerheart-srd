@@ -1,20 +1,20 @@
-```statblock
+---
 layout: Daggerheart
-image: 
-name: KRAKEN
-tier: Tier 4
-type: Solo
+image:
+name: Kraken
 desc: A legendary beast of the sea, bigger than the largest galleon, with sucker-laden tentacles and a terrifying maw.
+exp: Swimming +3
 mt: Consume, crush, drown, grapple
+tier: 4
+type: Solo
 scores: [20, 35/70, 11, 8]
 atk: 1d20+7
-atk_roll: .
+atk_roll: 1d20+7
 atk_dice: 1d20+7
-dmg: Tentacles - C
-dmg_roll: 4d12+10 pht
-dmg_dice: 4d12+10
-exp: Swimming +3
-feats: 
+dmg: Tentacles - Close
+dmg_roll: 4d12+10 phy
+dmg_dice: 4d12+10 phy
+feats:
   - name: Relentless (3) - Passive
     desc: The Kraken can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
   - name: Many Tentacles - Passive
@@ -25,4 +25,10 @@ feats:
     desc: Spend a Fear to spew a line of boiling water at any number of targets in a line up to Far range. All targets must succeed on an Agility Reaction Roll or take 4d6+9 physical damage. If a target marks an Armor Slot to reduce the damage, they must also mark a Stress.
   - name: Momentum - Reaction
     desc: When the Kraken makes a successful attack against a PC, you gain a Fear.
-```
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+---

@@ -4,22 +4,22 @@ import json
 w_dir = os.path.dirname(os.path.abspath(__file__))
 os.chdir(w_dir)
 
-# Load the JSON file and print the details of the Acid Burrower adversary
-# Ensure the JSON file is in the same directory as this script
-json_file_path = os.path.join(w_dir, 'adversaries.json')
+# map the json directory
+json_dir = os.path.join(w_dir, 'json')
+
+# Check for the JSON file for adversaries
+json_file_path = os.path.join(json_dir, 'adversaries.json')
 if not os.path.exists(json_file_path):
     raise FileNotFoundError(f"JSON file not found: {json_file_path}")
 
-with open(json_file_path, 'r') as file:
+with open(json_file_path, 'r', encoding='utf-8-sig') as file:
     data = json.load(file)
 
-#loop through all adversaries in the JSON file
-if not isinstance(data, list) or len(data) == 0:
-    raise ValueError("JSON data is not in the expected format or is empty.")
-if not all(isinstance(adversary, dict) for adversary in data):
-    raise ValueError("JSON data contains invalid entries. Each adversary should be a dictionary.")
+# Check for or set up the directory structure for statblocks output up one level from .build
+statblock_dir = os.path.join('..','adversaries','statblocks')
+if not os.path.exists(statblock_dir):
+  os.makedirs(statblock_dir)
 
-# Process each adversary and generate the markdown output
 for adversary in data:
     markdown_output =  f"""---
 layout: Daggerheart
@@ -57,18 +57,11 @@ feats:
 ---
 """
 
-    # Ensure the output directory exists
-    # Ensure the output directory exists
-    output_dir = os.path.join(w_dir, 'adversaries\statblock')
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-    # Create a subdirectory for the tier if it doesn't exist
-    tier_dir = os.path.join(output_dir, f'Tier {adversary["tier"]}')
+    tier_dir = os.path.join(statblock_dir, f'Tier {adversary["tier"]}')
     if not os.path.exists(tier_dir):
-        os.makedirs(tier_dir)
-        
-    # Write the markdown output to a file
-    output_file_path = os.path.join(w_dir, f'adversaries\statblock\Tier {adversary['tier']}\{adversary['name'].replace(':','')}.md')
-    with open(output_file_path, 'w') as output_file:
-        output_file.write(markdown_output)
-    print(f"Tier {adversary['tier']}\{adversary['name'].replace(':','')}.md'")
+      os.makedirs(tier_dir)
+
+    statblock_output = os.path.join(w_dir, statblock_dir, f'Tier {adversary['tier']}',f'{adversary['name'].replace(':','')}.md')
+    with open(statblock_output, 'w') as statblock:
+        statblock.write(markdown_output)
+    print(f"Tier {adversary['tier']}/{adversary['name'].replace(':','')}.md'")

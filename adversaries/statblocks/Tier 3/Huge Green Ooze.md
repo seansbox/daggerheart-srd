@@ -1,20 +1,20 @@
-```statblock
+---
 layout: Daggerheart
-image: 
-name: HUGE GREEN OOZE
-tier: Tier 3
-type: Skulk
+image:
+name: Huge Green Ooze
 desc: A translucent green mound of acid taller than most humans.
+exp: Blend In +3
 mt: Camouflage, creep up, envelop, multiply
+tier: 3
+type: Skulk
 scores: [15, 15/30, 7, 4]
 atk: 1d20+3
-atk_roll: .
+atk_roll: 1d20+3
 atk_dice: 1d20+3
-dmg: Ooze Appendage - M
+dmg: Ooze Appendage - Melee
 dmg_roll: 3d8+1 mag
-dmg_dice: 3d8+1
-exp: Blend In +3
-feats: 
+dmg_dice: 3d8+1 mag
+feats:
   - name: Slow - Passive
     desc: When you spotlight the Ooze and they don’t have a token on their stat block, they can’t act yet. Place a token on their stat block and describe what they’re preparing to do. When you spotlight the Ooze and they have a token on their stat block, clear the token and they can act.
   - name: Acidic Form - Passive
@@ -23,4 +23,12 @@ feats:
     desc: Make an attack against a target within Melee range. On a success, the Ooze Envelops them and the target must mark 2 Stress. While Enveloped, the target must mark an additional Stress every time they make an action roll. When the Ooze takes Severe damage, all Enveloped targets are freed and the condition is cleared.
   - name: Split - Reaction
     desc: When the Ooze has 4 or more HP marked, you can spend a Fear to split them into two Green Oozes (with no marked HP or Stress). Immediately spotlight both of them.
-```
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+---

@@ -1,20 +1,20 @@
-```statblock
+---
 layout: Daggerheart
-image: 
-name: DEMON OF HUBRIS
-tier: Tier 3
-type: Leader
+image:
+name: Demon of Hubris
 desc: A perfectly beautiful and infinitely cruel demon with a gleaming spear and elegant robes.
+exp: Manipulation +2
 mt: Condescend, declare premature victory, prove superiority
+tier: 3
+type: Leader
 scores: [19, 20/36, 7, 5]
 atk: 1d20+4
-atk_roll: .
+atk_roll: 1d20+4
 atk_dice: 1d20+4
-dmg: Perfect Spear - VC
+dmg: Perfect Spear - Very Close
 dmg_roll: 3d10 phy
-dmg_dice: 3d10
-exp: Manipulation +2
-feats: 
+dmg_dice: 3d10 phy
+feats:
   - name: Terrifying - Passive
     desc: When the Demon makes a successful attack, all PCs within Far range must lose a Hope and you gain a Fear.
   - name: Double or Nothing - Passive
@@ -25,4 +25,10 @@ feats:
     desc: Spend a Fear to spotlight two other Demons within Far range.
   - name: You Pale in Comparison - Reaction
     desc: When a PC fails a roll within Close range of the Demon, they must mark a Stress.
-```
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+---

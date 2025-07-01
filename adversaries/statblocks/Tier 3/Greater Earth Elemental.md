@@ -1,20 +1,20 @@
-```statblock
+---
 layout: Daggerheart
-image: 
-name: GREATER EARTH ELEMENTAL
-tier: Tier 3
-type: Bruiser
+image:
+name: Greater Earth Elemental
 desc: A living landslide of boulders and dust, as large as a house.
+exp: 0
 mt: Avalanche, knock over, pummel
+tier: 3
+type: Bruiser
 scores: [17, 22/40, 10, 4]
 atk: 1d20+7
-atk_roll: .
+atk_roll: 1d20+7
 atk_dice: 1d20+7
-dmg: Boulder Fist - VC
+dmg: Boulder Fist - Very Close
 dmg_roll: 3d10+1 phy
-dmg_dice: 3d10+1
-exp: 
-feats: 
+dmg_dice: 3d10+1 phy
+feats:
   - name: Slow - Passive
     desc: When you spotlight the Elemental and they don’t have a token on their stat block, they can’t act yet. Place a token on their stat block and describe what they’re preparing to do. When you spotlight the Elemental and they have a token on their stat block, clear the token and they can act.
   - name: Crushing Blows - Passive
@@ -25,4 +25,10 @@ feats:
     desc: Mark a Stress to create a rockslide that buries all the land in front of Elemental within Close range with rockfall. All targets in this area must make an Agility Reaction Roll (19). Targets who fail take 2d12+5 physical damage and become Vulnerable until their next roll with Hope. Targets who succeed take half damage.
   - name: Momentum - Reaction
     desc: When the Elemental makes a successful attack against a PC, you gain a Fear.
-```
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+---

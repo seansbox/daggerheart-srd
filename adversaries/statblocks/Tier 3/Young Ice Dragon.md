@@ -1,20 +1,20 @@
-```statblock
+---
 layout: Daggerheart
-image: 
-name: YOUNG ICE DRAGON
-tier: Tier 3
-type: Solo
-desc: A glacier-blue dragon with four powerful limbs and frost-tinged wings. 
+image:
+name: Young Ice Dragon
+desc: A glacier-blue dragon with four powerful limbs and frost-tinged wings.
+exp: Protect What Is Mine +3
 mt: Avalanche, defend lair, fly, freeze, defend what is mine, maul
+tier: 3
+type: Solo
 scores: [18, 21/41, 10, 6]
 atk: 1d20+7
-atk_roll: .
+atk_roll: 1d20+7
 atk_dice: 1d20+7
-dmg: Bite and Claws - C
+dmg: Bite and Claws - Close
 dmg_roll: 4d10 phy
-dmg_dice: 4d10
-exp: Protect What Is Mine +3
-feats: 
+dmg_dice: 4d10 phy
+feats:
   - name: Relentless (3) - Passive
     desc: The Dragon can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
   - name: Rend and Crush - Passive
@@ -29,4 +29,6 @@ feats:
     desc: When a creature makes a successful attack against the Dragon from within Very Close range, they must mark a Stress and become Chilled until their next rest or they clear a Stress. While they are Chilled, they have disadvantage on attack rolls.
   - name: Momentum - Reaction
     desc: When the Dragon makes a successful attack against a PC, you gain a Fear.
-```
+  - name: 
+    desc: 
+---

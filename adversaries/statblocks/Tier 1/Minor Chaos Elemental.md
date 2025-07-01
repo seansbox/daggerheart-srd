@@ -1,20 +1,20 @@
-```statblock
+---
 layout: Daggerheart
-image: 
-name: MINOR CHAOS ELEMENTAL
-tier: Tier 1
-type: Solo
+image:
+name: Minor Chaos Elemental
 desc: A coruscating mass of uncontrollable magic.
+exp: 0
 mt: Confound, destabilize, transmogrify
+tier: 1
+type: Solo
 scores: [14, 7/14, 7, 3]
 atk: 1d20+3
-atk_roll: .
+atk_roll: 1d20+3
 atk_dice: 1d20+3
-dmg: Warp Blast - C
+dmg: Warp Blast - Close
 dmg_roll: 1d12+6 mag
-dmg_dice: 1d12+6
-exp:
-feats: 
+dmg_dice: 1d12+6 mag
+feats:
   - name: Arcane Master - Passive
     desc: The Elemental is resistant to magic damage.
   - name: Sickening Flux - Action
@@ -25,4 +25,10 @@ feats:
     desc: When the Elemental takes damage from an attack within Close range, deal an amount of damage to the attacker equal to half of the damage they dealt.
   - name: Momentum - Reaction
     desc: When the Elemental makes a successful attack against a PC, you gain a Fear.
-```
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+---

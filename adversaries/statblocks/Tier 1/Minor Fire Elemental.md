@@ -1,20 +1,20 @@
-```statblock
+---
 layout: Daggerheart
-image: 
-name: MINOR FIRE ELEMENTAL
-tier: Tier 1
-type: Solo
+image:
+name: Minor Fire Elemental
 desc: A living flame the size of a large bonfire.
+exp: 0
 mt: Encircle enemies, grow in size, intimidate, start fires
+tier: 1
+type: Solo
 scores: [13, 7/15, 9, 3]
 atk: 1d20+3
-atk_roll: .
-atk_dice: 1d20+2
-dmg: Elemental Blast - F
+atk_roll: 1d20+3
+atk_dice: 1d20+3
+dmg: Elemental Blast - Far
 dmg_roll: 1d10+4 mag
-dmg_dice: 1d104
-exp: 
-feats: 
+dmg_dice: 1d10+4 mag
+feats:
   - name: Relentless (2) - Passive
     desc: The Elemental can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
   - name: Scorched Earth - Action
@@ -25,4 +25,10 @@ feats:
     desc: Three times per scene, when the Elemental moves on objects that are highly flammable, consume them to clear a HP or a Stress.
   - name: Momentum - Reaction
     desc: When the Elemental makes a successful attack against a PC, you gain a Fear.
-```
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+---
