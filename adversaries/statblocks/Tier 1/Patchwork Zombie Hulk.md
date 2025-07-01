@@ -14,7 +14,7 @@ atk_dice: 1d20+4
 dmg: Too Many Arms - Very Close
 dmg_roll: 1d20 phy
 dmg_dice: 1d20 phy
-feats:
+feats: 
   - name: Destructive - Passive
     desc: When the Zombie takes Major or greater damage, they mark an additional HP.
   - name: Flailing Limbs - Passive
@@ -23,12 +23,4 @@ feats:
     desc: When the Zombie is within Very Close range of a corpse, they can incorporate it into themselves, clearing a HP and a Stress.
   - name: Tormented Screams - Action
     desc: Mark a Stress to cause all PCs within Far range to make a Presence Reaction Roll (13). Targets who fail lose a Hope and you gain a Fear for each. Targets who succeed must mark a Stress.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

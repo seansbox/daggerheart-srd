@@ -14,7 +14,7 @@ atk_dice: 1d20+2
 dmg: Javelin - Close
 dmg_roll: 1d8+3 phy
 dmg_dice: 1d8+3 phy
-feats:
+feats: 
   - name: Tactician - Action
     desc: When you spotlight the Lieutenant, mark a Stress to also spotlight two allies within Close range.
   - name: More Where That Came From - Action
@@ -23,12 +23,4 @@ feats:
     desc: Spend a Fear to make an attack against a Vulnerable target within Close range. On a success, deal 2d6+12 physical damage and the target must mark a Stress.
   - name: Momentum - Reaction
     desc: When the Lieutenant makes a successful attack against a PC, you gain a Fear.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

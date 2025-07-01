@@ -14,21 +14,11 @@ atk_dice: 1d20+1
 dmg: Bite and Claw - Melee
 dmg_roll: 2d6+5 phy
 dmg_dice: 2d6+5 phy
-feats:
+feats: 
   - name: Warped Fortitude - Passive
     desc: The Experiment is resistant to physical damage.
   - name: Overwhelm - Passive
     desc: When a target the Experiment attacks has other adversaries within Very Close range, the Experiment deals double damage.
   - name: Lurching Lunge - Action
     desc: Mark a Stress to spotlight the Experiment as an additional GM move instead of spending Fear.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

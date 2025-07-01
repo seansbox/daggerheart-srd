@@ -14,7 +14,7 @@ atk_dice: 1d20+8
 dmg: Holy Sword - Very Close
 dmg_roll: 4d10+10 phy
 dmg_dice: 4d10+10 phy
-feats:
+feats: 
   - name: Relentless (2) - Passive
     desc: The Seraph can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
   - name: Divine Flight - Passive
@@ -25,10 +25,4 @@ feats:
     desc: Mark a Stress to reflect a sliver of divinity as a searing beam of light that hits up to twenty targets within Very Far range. Targets must make a Presence Reaction Roll, with disadvantage if they are marked Guilty. Targets who fail take 4d6+12 magic damage. Targets who succeed take half damage.
   - name: We Are One - Action
     desc: Once per scene, spend a Fear to spotlight all other adversaries within Far range. Attacks they make while spotlighted in this way deal half damage.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

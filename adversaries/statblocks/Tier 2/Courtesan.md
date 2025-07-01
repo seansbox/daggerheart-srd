@@ -14,21 +14,7 @@ atk_dice: 1d20-3
 dmg: Dagger - Melee
 dmg_roll: 1d4+3 phy
 dmg_dice: 1d4+3 phy
-feats:
+feats: 
   - name: Searing Glance - Reaction
     desc: When a PC within Close range makes a Presence Roll, you can mark a Stress to cast a gaze toward the aftermath. On the target’s failure, they must mark 2 Stress and are Vulnerable until the scene ends or they succeed on a social action against the Courtesan. On the target’s success, they must mark a Stress.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

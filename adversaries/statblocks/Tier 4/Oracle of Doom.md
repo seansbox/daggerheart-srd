@@ -14,7 +14,7 @@ atk_dice: 1d20+8
 dmg: Psychic Attack - Far
 dmg_roll: 4d8+9 mag
 dmg_dice: 4d8+9 mag
-feats:
+feats: 
   - name: Terrifying - Passive
     desc: When the Oracle makes a successful attack, all PCs within Far range lose a Hope and you gain a Fear.
   - name: Walls Closing In - Passive
@@ -27,8 +27,4 @@ feats:
     desc: When the Oracle sees a mortal creature, they instantly know one of their personal nightmares.
   - name: Vengeful Fate - Reaction
     desc: When the Oracle marks HP from an attack within Very Close range, you can mark a Stress to knock the attacker back to Far range and deal 2d10+4 physical damage.
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

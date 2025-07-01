@@ -23,13 +23,25 @@ if not os.path.exists(statblock_dir):
 
 # Iterate through each adversary in the JSON data and generate the markdown output
 for adversary in data:
+  
+  for feat in adversary['feats']:
+    # dynamically create a list of feats by iterating through the feats
+    feats = []
+    for feat in adversary['feats']:
+      # Replace colons with dashes in the name and text fields
+      if 'name' in feat and 'text' in feat:
+        # Append the formatted feat to the feats list
+        feats.append(f"- name: {feat['name'].replace(':',' - ')}\n    desc: {feat['text'].replace(':',' - ')}")
+    # Join the feats list into a single string
+    feats = '\n  '.join(feats)
+      
     markdown_output =  f"""```statblock
 layout: Daggerheart
 image:
-name: {adversary['name'].replace(':','')}
-desc: {adversary['description'].replace(':','')}
+name: {adversary['name'].replace(':',' - ')}
+desc: {adversary['description'].replace(':',' - ')}
 exp: {adversary['experience'] if 'experience' in adversary else ''}
-mt: {adversary['motives_and_tactics'].replace(':','')}
+mt: {adversary['motives_and_tactics'].replace(':',' - ')}
 tier: {adversary['tier']}
 type: {adversary['type']}
 scores: [{adversary['difficulty']}, {adversary['thresholds']}, {adversary['hp']}, {adversary['stress']}]
@@ -39,23 +51,8 @@ atk_dice: 1d20{adversary['atk']}
 dmg: {adversary['attack']} - {adversary['range']}
 dmg_roll: {adversary['damage']}
 dmg_dice: {adversary['damage']}
-feats:
-  - name: {adversary['feats'][0]['name'].replace(':','') if len(adversary['feats']) > 0 else ''}
-    desc: {adversary['feats'][0]['text'].replace(':','') if len(adversary['feats']) > 0 else ''}
-  - name: {adversary['feats'][1]['name'].replace(':','') if len(adversary['feats']) > 1 else ''}
-    desc: {adversary['feats'][1]['text'].replace(':','') if len(adversary['feats']) > 1 else ''}
-  - name: {adversary['feats'][2]['name'].replace(':','') if len(adversary['feats']) > 2 else ''}
-    desc: {adversary['feats'][2]['text'].replace(':','') if len(adversary['feats']) > 2 else ''}
-  - name: {adversary['feats'][3]['name'].replace(':','') if len(adversary['feats']) > 3 else ''}
-    desc: {adversary['feats'][3]['text'].replace(':','') if len(adversary['feats']) > 3 else ''}
-  - name: {adversary['feats'][4]['name'].replace(':','') if len(adversary['feats']) > 4 else ''}
-    desc: {adversary['feats'][4]['text'].replace(':','') if len(adversary['feats']) > 4 else ''}
-  - name: {adversary['feats'][5]['name'].replace(':','') if len(adversary['feats']) > 5 else ''}
-    desc: {adversary['feats'][5]['text'].replace(':','') if len(adversary['feats']) > 5 else ''}
-  - name: {adversary['feats'][6]['name'].replace(':','') if len(adversary['feats']) > 6 else ''}
-    desc: {adversary['feats'][6]['text'].replace(':','') if len(adversary['feats']) > 6 else ''}
-  - name: {adversary['feats'][7]['name'].replace(':','') if len(adversary['feats']) > 7 else ''}
-    desc: {adversary['feats'][7]['text'].replace(':','') if len(adversary['feats']) > 7 else ''} 
+feats: 
+  {feats}
 ```
 """
 
@@ -65,9 +62,9 @@ feats:
       os.makedirs(tier_dir)
 
     # Write the markdown output to a file
-    statblock_output = os.path.join(w_dir, statblock_dir, f'Tier {adversary['tier']}',f'{adversary['name'].replace(':','')}.md')
+    statblock_output = os.path.join(statblock_dir, f'Tier {adversary['tier']}',f'{adversary['name'].replace(':','_')}.md')
     with open(statblock_output, 'w') as statblock:
         statblock.write(markdown_output)
     
     # Print the output file path for confirmation
-    print(f"Tier {adversary['tier']}/{adversary['name'].replace(':','')}.md'")
+    print(statblock_output)

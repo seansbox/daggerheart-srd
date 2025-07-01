@@ -14,7 +14,7 @@ atk_dice: 1d20+7
 dmg: Tentacles - Close
 dmg_roll: 4d12+10 phy
 dmg_dice: 4d12+10 phy
-feats:
+feats: 
   - name: Relentless (3) - Passive
     desc: The Kraken can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
   - name: Many Tentacles - Passive
@@ -25,10 +25,4 @@ feats:
     desc: Spend a Fear to spew a line of boiling water at any number of targets in a line up to Far range. All targets must succeed on an Agility Reaction Roll or take 4d6+9 physical damage. If a target marks an Armor Slot to reduce the damage, they must also mark a Stress.
   - name: Momentum - Reaction
     desc: When the Kraken makes a successful attack against a PC, you gain a Fear.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

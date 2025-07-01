@@ -14,21 +14,11 @@ atk_dice: 1d20+1
 dmg: Claws - Melee
 dmg_roll: 1d8+3 phy
 dmg_dice: 1d8+3 phy
-feats:
+feats: 
   - name: Overwhelming Force - Passive
     desc: Targets who mark HP from the Bear’s standard attack are knocked back to Very Close range.
   - name: Bite - Action
     desc: Mark a Stress to make an attack against a target within Melee range. On a success, deal 3d4+10 physical damage and the target is Restrained until they break free with a successful Strength Roll.
   - name: Momentum - Reaction
     desc: When the Bear makes a successful attack against a PC, you gain a Fear.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

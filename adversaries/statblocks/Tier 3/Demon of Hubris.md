@@ -14,7 +14,7 @@ atk_dice: 1d20+4
 dmg: Perfect Spear - Very Close
 dmg_roll: 3d10 phy
 dmg_dice: 3d10 phy
-feats:
+feats: 
   - name: Terrifying - Passive
     desc: When the Demon makes a successful attack, all PCs within Far range must lose a Hope and you gain a Fear.
   - name: Double or Nothing - Passive
@@ -25,10 +25,4 @@ feats:
     desc: Spend a Fear to spotlight two other Demons within Far range.
   - name: You Pale in Comparison - Reaction
     desc: When a PC fails a roll within Close range of the Demon, they must mark a Stress.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

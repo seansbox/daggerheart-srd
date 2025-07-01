@@ -14,21 +14,9 @@ atk_dice: 1d20-1
 dmg: Bite - Melee
 dmg_roll: 1d10+2 phy
 dmg_dice: 1d10+2 phy
-feats:
+feats: 
   - name: Horde (1d4+2) - Passive
     desc: When the Zombies have marked half or more of their HP, their standard attack deals 1d4+2 physical damage instead.
   - name: Overwhelm - Reaction
     desc: When the Zombies mark HP from an attack within Melee range, you can mark a Stress to make a standard attack against the attacker.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

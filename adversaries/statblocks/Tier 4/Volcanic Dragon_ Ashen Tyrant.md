@@ -1,7 +1,7 @@
 ```statblock
 layout: Daggerheart
 image:
-name: Volcanic Dragon Ashen Tyrant
+name: Volcanic Dragon -  Ashen Tyrant
 desc: A legendary, lava-hardened dragon. No enemy has ever had the insolence to wound the dragon so.
 exp: Hunt from Above +5
 mt: Choke, fly, intimidate, kill or be killed
@@ -14,7 +14,7 @@ atk_dice: 1d20+10
 dmg: Claws and Teeth - Close
 dmg_roll: 4d12+15 phy
 dmg_dice: 4d12+15 phy
-feats:
+feats: 
   - name: Relentless (4) - Passive
     desc: The Ashen Tyrant can be spotlighted up to four times per GM turn. Spend Fear as usual to spotlight them.
   - name: Cornered - Passive
@@ -27,8 +27,4 @@ feats:
     desc: Spend a Fear to smash the ground beneath an adversary within Far range. While within the ash cloud, a target has disadvantage on action rolls. The ash cloud clears the next time an adversary is spotlighted.
   - name: Apocalyptic Thrashing - Action
     desc: Countdown (1d12). Spend a Fear to activate it. It ticks down when a PC rolls with Fear. When it reaches 0, the Ashen Tyrant thrashes about, causing environmental damage (such as an earthquake, avalanche, or collapsing walls). All targets within Far range must make a Strength Reaction Roll. Targets who fail take 2d10+10 physical damage and are Restrained by the rubble until they break free with a successful Strength Roll. Targets who succeed take half damage. If the Ashen Tyrant is defeated while this countdown is active, trigger the countdown immediately as the destruction caused by their death throes.
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

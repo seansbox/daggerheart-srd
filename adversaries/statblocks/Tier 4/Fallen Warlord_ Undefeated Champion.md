@@ -1,7 +1,7 @@
 ```statblock
 layout: Daggerheart
 image:
-name: Fallen Warlord Undefeated Champion
+name: Fallen Warlord -  Undefeated Champion
 desc: That which only the most feared have a chance to fear.
 exp: Conquest +3, History +2, Intimidation +3
 mt: Dispatch merciless death, punish the defiant, secure victory at any cost
@@ -14,7 +14,7 @@ atk_dice: 1d20+8
 dmg: Heart-Shattering Sword - Very Close
 dmg_roll: 4d12+13 phy
 dmg_dice: 4d12+13 phy
-feats:
+feats: 
   - name: Relentless (3) - Passive
     desc: The Undefeated Champion can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
   - name: Faltering Armor - Passive
@@ -29,6 +29,4 @@ feats:
     desc: When the Undefeated Champion makes a successful attack against a PC, you gain a Fear.
   - name: Doombringer - Reaction
     desc: When a target marks HP from an attack by the Undefeated Champion, all PCs within Far range of the target lose a Hope.
-  - name: 
-    desc:  
 ```

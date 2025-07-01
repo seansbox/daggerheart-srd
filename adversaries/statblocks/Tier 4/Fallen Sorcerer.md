@@ -14,7 +14,7 @@ atk_dice: 1d20+4
 dmg: Corrupted Staff - Far
 dmg_roll: 4d6+10 mag
 dmg_dice: 4d6+10 mag
-feats:
+feats: 
   - name: Conflagration - Action
     desc: Spend a Fear to unleash an all-consuming firestorm and make an attack against all targets within Close range. Targets the Sorcerer succeeds against take 2d10+6 direct magic damage.
   - name: Nightmare Tableau - Action
@@ -23,12 +23,4 @@ feats:
     desc: When the Sorcerer takes damage from an attack, they can teleport up to Far range.
   - name: Shackles of Guilt - Reaction
     desc: Countdown (Loop 2d6). When the Sorcerer is in the spotlight for the first time, activate the countdown. When it triggers, all targets within Far range become Vulnerable and must mark a Stress as they relive their greatest regrets. A target can break free from their regret with a successful Presence or Strength Roll. When a PC fails to break free, they lose a Hope.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

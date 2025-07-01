@@ -14,7 +14,7 @@ atk_dice: 1d20+3
 dmg: Bite and Claws - Melee
 dmg_roll: 2d8+6 phy
 dmg_dice: 2d8+6 phy
-feats:
+feats: 
   - name: Stonestrider - Passive
     desc: The Stonewraith can move through stone and earth as easily as air. While within stone or earth, they are Hidden and immune to all damage.
   - name: Rocky Ambush - Action
@@ -23,12 +23,4 @@ feats:
     desc: Spend a Fear to roar while within a cave and cause a cave-in. All targets within Close range must succeed on an Agility Reaction Roll (14) or take 2d10 physical damage. The rubble can be cleared with a Progress Countdown (8).
   - name: Momentum - Reaction
     desc: When the Stonewraith makes a successful attack against a PC, you gain a Fear.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

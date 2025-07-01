@@ -14,21 +14,7 @@ atk_dice: 1d20-1
 dmg: Ooze Appendage - Melee
 dmg_roll: 1d4+2 mag
 dmg_dice: 1d4+2 mag
-feats:
+feats: 
   - name: Burning - Reaction
     desc: When a creature within Melee range deals damage to the Ooze, they take 1d6 direct magic damage.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

@@ -14,21 +14,9 @@ atk_dice: 1d20+1
 dmg: Daggers - Melee
 dmg_roll: 1d4+4 phy
 dmg_dice: 1d4+4 phy
-feats:
+feats: 
   - name: Backstab - Passive
     desc: When the Shadow succeeds on a standard attack that has advantage, they deal 1d6+6 physical damage instead of their standard damage.
   - name: Cloaked - Action
     desc: Become Hidden until after the Shadow’s next attack. Attacks made while Hidden from this feature have advantage.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

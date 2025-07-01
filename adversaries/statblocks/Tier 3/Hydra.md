@@ -14,7 +14,7 @@ atk_dice: 1d20+3
 dmg: Bite - Close
 dmg_roll: 2d12+2 phy
 dmg_dice: 2d12+2 phy
-feats:
+feats: 
   - name: Many-Headed Menace - Passive
     desc: The Hydra begins with three heads and can have up to five. When the Hydra takes Major or greater damage, they lose a head.
   - name: Relentless (X) - Passive
@@ -25,10 +25,4 @@ feats:
     desc: All PCs within Far range lose 2 Hope.
   - name: Magical Weakness - Reaction
     desc: When the Hydra takes magic damage, they become Dazed until the next roll with Fear. While Dazed, they can’t use their Regeneration action but are immune to magic damage.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

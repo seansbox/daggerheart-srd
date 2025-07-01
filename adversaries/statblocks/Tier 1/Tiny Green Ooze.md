@@ -14,21 +14,7 @@ atk_dice: 1d20-1
 dmg: Ooze Appendage - Melee
 dmg_roll: 1d4+1 mag
 dmg_dice: 1d4+1 mag
-feats:
+feats: 
   - name: Acidic Form - Passive
     desc: When the Ooze makes a successful attack, the target must mark an Armor Slot without receiving its benefits (they can still use armor to reduce the damage). If they can’t mark an Armor Slot, they must mark an additional HP.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

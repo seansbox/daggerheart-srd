@@ -14,7 +14,7 @@ atk_dice: 1d20+3
 dmg: Magitech Cannon - Far
 dmg_roll: 3d10+3 mag
 dmg_dice: 3d10+3 mag
-feats:
+feats: 
   - name: Slow Firing - Passive
     desc: When you spotlight the Turret and they don’t have a token on their stat block, they can’t make a standard attack. Place a token on their stat block and describe what they’re preparing to do. When you spotlight the Turret and they have a token on their stat block, clear the token and they can attack.
   - name: Mark Target - Action
@@ -23,12 +23,4 @@ feats:
     desc: When another adversary deals damage to a target within Far range of the Turret, you can mark a Stress to add the Turret’s standard attack damage to the damage roll.
   - name: Detonation - Reaction
     desc: When the Turret is destroyed, they explode. All targets within Close range must make an Agility Reaction Roll. Targets who fail take 3d20 physical damage. Targets who succeed take half damage.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

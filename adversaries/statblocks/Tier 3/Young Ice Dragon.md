@@ -14,7 +14,7 @@ atk_dice: 1d20+7
 dmg: Bite and Claws - Close
 dmg_roll: 4d10 phy
 dmg_dice: 4d10 phy
-feats:
+feats: 
   - name: Relentless (3) - Passive
     desc: The Dragon can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
   - name: Rend and Crush - Passive
@@ -29,6 +29,4 @@ feats:
     desc: When a creature makes a successful attack against the Dragon from within Very Close range, they must mark a Stress and become Chilled until their next rest or they clear a Stress. While they are Chilled, they have disadvantage on attack rolls.
   - name: Momentum - Reaction
     desc: When the Dragon makes a successful attack against a PC, you gain a Fear.
-  - name: 
-    desc:  
 ```

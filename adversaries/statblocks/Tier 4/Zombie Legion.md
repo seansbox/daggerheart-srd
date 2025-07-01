@@ -14,7 +14,7 @@ atk_dice: 1d20+2
 dmg: Tentacles - Close
 dmg_roll: 4d6+10 phy
 dmg_dice: 4d6+10 phy
-feats:
+feats: 
   - name: Horde (2d6+5) - Passive
     desc: When Legion has half or more HP marked, standard attack deals 2d6+5 physical damage instead.
   - name: Unyielding - Passive
@@ -23,12 +23,4 @@ feats:
     desc: Legion can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight.
   - name: Overwhelm - Reaction
     desc: When Legion takes Minor damage from attack within Melee, mark a Stress to make standard attack with advantage against the attacker.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

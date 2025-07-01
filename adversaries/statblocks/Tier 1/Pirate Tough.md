@@ -14,21 +14,9 @@ atk_dice: 1d20+1
 dmg: Massive Fists - Melee
 dmg_roll: 2d6 phy
 dmg_dice: 2d6 phy
-feats:
+feats: 
   - name: Swashbuckler - Passive
     desc: When the Tough marks 2 or fewer HP from an attack within Melee range, the attacker must mark a Stress.
   - name: Clear the Decks - Action
     desc: Make an attack against a target within Very Close range. On a success, mark a Stress to move into Melee range of the target, dealing 3d4 physical damage and knocking the target back to Close range.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

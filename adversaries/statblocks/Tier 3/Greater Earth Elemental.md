@@ -14,7 +14,7 @@ atk_dice: 1d20+7
 dmg: Boulder Fist - Very Close
 dmg_roll: 3d10+1 phy
 dmg_dice: 3d10+1 phy
-feats:
+feats: 
   - name: Slow - Passive
     desc: When you spotlight the Elemental and they don’t have a token on their stat block, they can’t act yet. Place a token on their stat block and describe what they’re preparing to do. When you spotlight the Elemental and they have a token on their stat block, clear the token and they can act.
   - name: Crushing Blows - Passive
@@ -25,10 +25,4 @@ feats:
     desc: Mark a Stress to create a rockslide that buries all the land in front of Elemental within Close range with rockfall. All targets in this area must make an Agility Reaction Roll (19). Targets who fail take 2d12+5 physical damage and become Vulnerable until their next roll with Hope. Targets who succeed take half damage.
   - name: Momentum - Reaction
     desc: When the Elemental makes a successful attack against a PC, you gain a Fear.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

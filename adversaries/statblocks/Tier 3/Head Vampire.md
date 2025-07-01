@@ -14,7 +14,7 @@ atk_dice: 1d20+5
 dmg: Rapier - Melee
 dmg_roll: 2d20+4 phy
 dmg_dice: 2d20+4 phy
-feats:
+feats: 
   - name: Terrifying - Passive
     desc: When the Vampire makes a successful attack, all PCs within Far range lose a Hope and you gain a Fear.
   - name: Look Into My Eyes - Passive
@@ -25,10 +25,4 @@ feats:
     desc: Spend 2 Fear to summon 1d4 Vampires, who appear at Far range and immediately take the spotlight.
   - name: Lifesuck - Reaction
     desc: When the Vampire is spotlighted, roll a d8. On a result of 6 or higher, all targets within Very Close range must mark a HP.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

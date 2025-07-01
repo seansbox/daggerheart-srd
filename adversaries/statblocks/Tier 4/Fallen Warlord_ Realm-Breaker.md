@@ -1,7 +1,7 @@
 ```statblock
 layout: Daggerheart
 image:
-name: Fallen Warlord Realm-Breaker
+name: Fallen Warlord -  Realm-Breaker
 desc: A fallen God, wreathed in rage and resentment, bearing millennia of experience in breaking heroes’ spirits.
 exp: Conquest +3, History +2, Intimidation +3
 mt: Corrupt, dominate, punish, break the weak
@@ -14,7 +14,7 @@ atk_dice: 1d20+7
 dmg: Barbed Whip - Close
 dmg_roll: 4d8+7 phy
 dmg_dice: 4d8+7 phy
-feats:
+feats: 
   - name: Relentless (2) - Passive
     desc: The Realm-Breaker can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
   - name: Firespite Plate Armor - Passive
@@ -27,8 +27,4 @@ feats:
     desc: When a target marks HP from an attack by the Realm-Breaker, all PCs within Far range of the target must lose a Hope.
   - name: I Have Never Known Defeat (Phase Change) - Reaction
     desc: When the Realm-Breaker marks their last HP, replace them with the Undefeated Champion and immediately spotlight them.
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

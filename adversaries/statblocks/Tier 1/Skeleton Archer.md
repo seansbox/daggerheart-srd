@@ -14,21 +14,9 @@ atk_dice: 1d20+2
 dmg: Shortbow - Far
 dmg_roll: 1d8+1 phy
 dmg_dice: 1d8+1 phy
-feats:
+feats: 
   - name: Opportunist - Passive
     desc: When two or more adversaries are within Very Close range of a creature, all damage they each deal to that creature is doubled.
   - name: Deadly Shot - Action
     desc: Make an attack against a Vulnerable target within Far range. On a success, mark a Stress to deal 3d4+8 physical damage.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

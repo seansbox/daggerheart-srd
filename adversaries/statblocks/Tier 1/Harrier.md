@@ -14,21 +14,9 @@ atk_dice: 1d20+1
 dmg: Javelin - Close
 dmg_roll: 1d6+2 phy
 dmg_dice: 1d6+2 phy
-feats:
+feats: 
   - name: Maintain Distance - Passive
     desc: After making a standard attack, the Harrier can move anywhere within Far range.
   - name: Fall Back - Reaction
     desc: When a creature moves into Melee range to make an attack, you can mark a Stress before the attack roll to move anywhere within Close range and make an attack against that creature. On a success, deal 1d10+2 physical damage.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

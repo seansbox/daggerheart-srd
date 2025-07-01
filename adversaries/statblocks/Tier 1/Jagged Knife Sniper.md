@@ -14,21 +14,7 @@ atk_dice: 1d20-1
 dmg: Shortbow - Far
 dmg_roll: 1d10+2 phy
 dmg_dice: 1d10+2 phy
-feats:
+feats: 
   - name: Unseen Strike - Passive
     desc: If the Sniper is Hidden when they make a successful standard attack against a target, they deal 1d10+4 physical damage instead of their standard damage.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

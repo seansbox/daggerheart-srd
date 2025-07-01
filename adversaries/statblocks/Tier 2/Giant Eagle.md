@@ -14,7 +14,7 @@ atk_dice: 1d20+1
 dmg: Claws and Beak - Very Close
 dmg_roll: 2d6+3 phy
 dmg_dice: 2d6+3 phy
-feats:
+feats: 
   - name: Flight - Passive
     desc: While flying, the Eagle gains a +3 bonus to their Difficulty.
   - name: Deadly Dive - Action
@@ -23,12 +23,4 @@ feats:
     desc: Make an attack against a target within Very Close range. On a success, deal 2d4+3 physical damage and the target must succeed on an Agility Reaction Roll or become temporarily Restrained within the Eagle’s massive talons. If the target is Restrained, the Eagle immediately lifts them to the air to Very Far range above the battlefield while holding them.
   - name: Deadly Drop - Action
     desc: While flying, the Eagle can drop a Restrained target they are holding. When dropped, the target is no longer Restrained but starts falling. If their fall isn’t prevented during the PCs’ next action, the target takes 2d20 physical damage when they land.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

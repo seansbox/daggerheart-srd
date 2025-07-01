@@ -14,21 +14,9 @@ atk_dice: 1d200
 dmg: Bite - Melee
 dmg_roll: 1d6+1 phy
 dmg_dice: 1d6+1 phy
-feats:
+feats: 
   - name: Too Many to Handle - Passive
     desc: When the Zombie is within Melee range of a creature and at least one other Zombie is within Close range, all attacks against that creature have advantage.
   - name: Horrifying - Passive
     desc: Targets who mark HP from the Zombie’s attacks must also mark a Stress.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

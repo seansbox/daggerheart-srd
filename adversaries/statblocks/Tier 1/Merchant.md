@@ -14,21 +14,9 @@ atk_dice: 1d20-4
 dmg: Club - Melee
 dmg_roll: 1d4+1 phy
 dmg_dice: 1d4+1 phy
-feats:
+feats: 
   - name: Preferential Treatment - Passive
     desc: A PC who succeeds on a Presence Roll against the Merchant gains a discount on purchases. A PC who fails on a Presence Roll against the Merchant must pay more and has disadvantage on future Presence Rolls against the Merchant.
   - name: The Runaround - Passive
     desc: When a PC rolls a 14 or lower on a Presence Roll made against the Merchant, they must mark a Stress.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

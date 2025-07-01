@@ -14,7 +14,7 @@ atk_dice: 1d20+3
 dmg: Sigil-Laden Staff - Far
 dmg_roll: 2d12 mag
 dmg_dice: 2d12 mag
-feats:
+feats: 
   - name: Seize Your Moment - Action
     desc: Spend 2 Fear to spotlight 1d4 allies. Attacks they make while spotlighted in this way deal half damage.
   - name: Our Master’s Will - Reaction
@@ -23,12 +23,4 @@ feats:
     desc: Countdown (6). When the Secret-Keeper is in the spotlight for the first time, activate the countdown. When they mark HP, tick down this countdown by the number of HP marked. When it triggers, summon a Minor Demon who appears at Close range.
   - name: Fallen Hounds - Reaction
     desc: Once per scene, when the Secret-Keeper marks 2 or more HP, you can mark a Stress to summon a Demonic Hound Pack, which appears at Close range and is immediately spotlighted.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```

@@ -14,7 +14,7 @@ atk_dice: 1d20+3
 dmg: Claws - Very Close
 dmg_roll: 1d12+2 phy
 dmg_dice: 1d12+2 phy
-feats:
+feats: 
   - name: Relentless (3) - Passive
     desc: The Burrower can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
   - name: Earth Eruption - Action
@@ -23,12 +23,4 @@ feats:
     desc: Make an attack against all targets in front of the Burrower within Close range. Targets the Burrower succeeds against take 2d6 physical damage and must mark an Armor Slot without receiving its benefits (they can still use armor to reduce the damage). If they can’t mark an Armor Slot, they must mark an additional HP and you gain a Fear.
   - name: Acid Bath - Reaction
     desc: When the Burrower takes Severe damage, all creatures within Close range are bathed in their acidic blood, taking 1d10 physical damage. This splash covers the ground within Very Close range with blood, and all creatures other than the Burrower who move through it take 1d6 physical damage.
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc:  
 ```
