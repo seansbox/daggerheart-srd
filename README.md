@@ -17,11 +17,6 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 - [What Is This](contents/What%20Is%20This.md)
 - [The Basics](contents/The%20Basics.md)
 
-### STARTING A CAMPAIGN
-
-- [Session Zero](contents/Session%20Zero.md) *(currently missing from SRD 1.0)*
-- [Setting Creation](contents/Setting%20Creation.md) *(currently missing from SRD 1.0)*
-
 ### [CHARACTER CREATION](contents/Character%20Creation.md)
 
 ### CORE MATERIALS

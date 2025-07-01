@@ -17,7 +17,7 @@ Unless their table chooses to use pre-generated characters, each player creates 
 
 Your character’s **heritage** combines two elements: **[ancestry](Ancestries.md)** and **[community](Communities.md)**.
 
-- A character’s **ancestry** represents their species or lineage; it grants them certain physical traits and two unique **ancestry features**. Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet: Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungirl, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simian. To create a Mixed Ancestry, take the top (first-listed) ancestry feature from one ancestry and the bottom (second-listed) ancestry feature from another.
+- A character’s **ancestry** reflects their lineage, impacting their physicality and granting them two unique **ancestry features**. Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet: Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungirl, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simian. To create a Mixed Ancestry, take the top (first-listed) ancestry feature from one ancestry and the bottom (second-listed) ancestry feature from another.
 - Your character’s **community** represents their culture or environment of origin and grants them a **community feature**. Take the card for one of the following communities, then write its name in the Heritage field of your character sheet: Highborne, Loreborne, Orderborne, Ridgeborne, Seaborne, Skyborne, Underborne, Wanderborne, Wildborne.
 
 ## STEP 3: ASSIGN CHARACTER TRAITS
@@ -75,7 +75,7 @@ Develop your character’s **background** by answering the **background question
 
 ## STEP 7: CREATE YOUR EXPERIENCES
 
-An Experience is a word or phrase used to encapsulate a specific set of skills, personality traits, or aptitudes your character has acquired over the course of their life. When your PC makes a move, they can spend a Hope to add a relevant Experience’s modifier to the roll.
+An Experience is a word or phrase used to encapsulate a specific set of skills, personality traits, or aptitudes your character has acquired over the course of their life. When your PC makes a move, they can spend a Hope to add a relevant Experience’s modifier to an action or reaction roll.
 
 - Your PC gets two Experiences at character creation, each with a +2 modifier.
 - There’s no set list of Experiences to choose from, but an Experience can’t be too broadly applicable and it can’t grant your character specific mechanical benefits, such as magic spells or special abilities. *For example, “Lucky” and “Highly Skilled” are too broad because they could apply to virtually any roll. Likewise, “Supersonic Flight” and “Invulnerable” imply game-breaking special abilities.*

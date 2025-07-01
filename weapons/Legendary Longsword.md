@@ -1,6 +1,6 @@
 ﻿# LEGENDARY LONGSWORD
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8+12 phy; **Burden:** Two-Handed
+**Trait:** Agility; **Range:** Melee; **Damage:** d10+12 phy; **Burden:** Two-Handed
 
 **Feature:** —
 

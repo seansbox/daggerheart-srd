@@ -1279,6 +1279,35 @@
     ]
   },
   {
+    "name": "Weaponmaster",
+    "tier": "1",
+    "type": "Bruiser",
+    "description": "A master-at-arms wielding a sword twice their size.",
+    "motives_and_tactics": "Act first, aim for the weakest, intimidate",
+    "difficulty": "14",
+    "thresholds": "8/15",
+    "hp": "6",
+    "stress": "3",
+    "atk": "+2",
+    "attack": "Claymore",
+    "range": "Very Close",
+    "damage": "1d12+2 phy",
+    "feats": [
+      {
+        "name": "Goading Strike - Action",
+        "text": "Make a standard attack against a target. On a success, mark a Stress to Taunt the target until their next successful attack. The next time the Taunted target attacks, they have disadvantage against targets other than the Weaponmaster."
+      },
+      {
+        "name": "Adrenaline Burst - Action",
+        "text": "Once per scene, spend a Fear to clear 2 HP and 2 Stress."
+      },
+      {
+        "name": "Momentum - Reaction",
+        "text": "When the Weaponmaster makes a successful attack against a PC, you gain a Fear."
+      }
+    ]
+  },
+  {
     "name": "Brawny Zombie",
     "tier": "1",
     "type": "Bruiser",
@@ -2269,7 +2298,7 @@
       },
       {
         "name": "Summoning Ritual - Reaction",
-        "text": "Countdown (6). When the Secret-Keeper is in the spotlight for the first time, activate the countdown. When they mark HP, tick up this countdown by the number of HP marked. When it triggers, summon a Minor Demon who appears at Close range."
+        "text": "Countdown (6). When the Secret-Keeper is in the spotlight for the first time, activate the countdown. When they mark HP, tick down this countdown by the number of HP marked. When it triggers, summon a Minor Demon who appears at Close range."
       },
       {
         "name": "Fallen Hounds - Reaction",
@@ -2981,6 +3010,36 @@
       {
         "name": "Census Bell - Reaction: Long-Term Countdown (8)",
         "text": "Spend a Fear to activate after the Monarch’s desire for war is first revealed. When it triggers, the Monarch has a reason to rally the nation to war and the support to act on that reason. You gain 1d4 Fear."
+      }
+    ]
+  },
+  {
+    "name": "Stag Knight",
+    "tier": "3",
+    "type": "Standard",
+    "description": "A knight with huge, majestic antlers wearing armor made of dangerous thorns.",
+    "motives_and_tactics": "Isolate, maneuver, protect the forest, weed the unwelcome",
+    "difficulty": "17",
+    "thresholds": "19/36",
+    "hp": "7",
+    "stress": "5",
+    "atk": "+3",
+    "attack": "Bramble Sword",
+    "range": "Melee",
+    "damage": "3d8+3 phy",
+    "experience": "Forest Knowledge +3",
+    "feats": [
+      {
+        "name": "From Above - Passive",
+        "text": "When the Knight succeeds on a standard attack from above a target, they deal 3d12+3 physical damage instead of their standard damage."
+      },
+      {
+        "name": "Blade of the Forest - Action",
+        "text": "Spend a Fear to make an attack against all targets within Very Close range. Targets the Knight succeeds against take physical damage equal to 3d4 + the target's Major threshold."
+      },
+      {
+        "name": "Thorny Armor - Reaction",
+        "text": "When the Knight takes damage from an attack within Melee range, you can mark a Stress to deal 1d10+5 physical damage to the attacker."
       }
     ]
   },

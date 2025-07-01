@@ -1,7 +1,7 @@
 ﻿# IMPROVED SPEAR
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d10+5 phy; **Burden:** Two-Handed
+**Trait:** Finesse; **Range:** Very Close; **Damage:** d8+6 phy; **Burden:** Two-Handed
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Feature:** —
 
 *Primary Weapon - Tier 2*

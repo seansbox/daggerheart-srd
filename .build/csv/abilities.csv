@@ -17,7 +17,7 @@ FLIGHT,3,Arcana,Spell,1,"Make a Spellcast Roll (15). On a success, place a numbe
 BLINK OUT,4,Arcana,Spell,1,"Make a Spellcast Roll (12). On a success, spend a Hope to teleport to another point you can see within Far range. If any willing creatures are within Very Close range, spend an additional Hope for each creature to bring them with you."
 PRESERVATION BLAST,4,Arcana,Spell,2,Make a Spellcast Roll against all targets within Melee range. Targets you succeed against are forced back to Far range and take 8d8+3 magic damage using your Spellcast trait.
 CHAIN LIGHTNING,5,Arcana,Spell,1,"Mark 2 Stress to make a Spellcast Roll, unleashing lightning on all targets within Close range. Targets you succeed against must make a reaction roll with a Difficulty equal to the result of your Spellcast Roll. Targets who fail take 2d8+4 magic damage. Additional adversaries not already targeted by Chain Lightning and within Close range of previous targets who took damage must also make the reaction roll. Targets who fail take 2d8+4 magic damage. This chain continues until there are no more adversaries within range."
-PREMONITION,4,Arcana,Spell,2,"You can channel arcane energy to have visions of the future. Once per long rest, immediately after the GM conveys the consequences of a roll you made, you can rescind the move and consequences like they never happened and make another move instead."
+PREMONITION,5,Arcana,Spell,2,"You can channel arcane energy to have visions of the future. Once per long rest, immediately after the GM conveys the consequences of a roll you made, you can rescind the move and consequences like they never happened and make another move instead."
 RIFT WALKER,6,Arcana,Spell,2,"Make a Spellcast Roll (15). On a success, you place an arcane marking on the ground where you currently stand. The next time you successfully cast Rift Walker, a rift in space opens up, providing safe passage back to the exact spot where the marking was placed. This rift stays open until you choose to close it or you cast another spell.
 
 You can drop the spell at any time to cast Rift Walker again and place the marking somewhere new."
@@ -117,7 +117,7 @@ CRUEL PRECISION,7,Bone,Ability,1,"When you make a successful attack with a weapo
 BREAKING BLOW,8,Bone,Ability,3,"When you make a successful attack, you can mark a Stress to make the next successful attack against that same target deal an extra 2d12 damage."
 WRANGLE,8,Bone,Ability,1,"Make an Agility Roll against all targets within Close range. Spend a Hope to move targets you succeed against, and any willing allies within Close range, to another point within Close range."
 ON THE BRINK,9,Bone,Ability,1,"When you have 2 or fewer Hit Points unmarked, you don’t take Minor damage."
-SPLINTERING STRIKE,9,Bone,Ability,3,"Spend a Hope and make an attack against all adversaries within your weapon’s range. Once per long rest, on a success against any targets, add up the damage dealt, then redistribute that damage however you wish between the targets you succeeded against. When you deal damage to a target, roll an additional damage die and add its result to the damage you deal to that target."
+SPLINTERING STRIKE,9,Bone,Ability,3,"Spend a Hope and make an attack against all adversaries within your weapon’s range. Once per long rest, on a success against any targets, roll your weapon’s damage and distribute that damage however you wish between the targets you succeeded against. Before you deal damage to each target, roll an additional damage die and add its result to the damage you deal to them."
 DEATHRUN,10,Bone,Ability,1,"Spend 3 Hope to run a straight path through the battlefield to a point within Far range, making an attack against all adversaries within your weapon’s range along that path. Choose the order in which you deal damage to the targets you succeeded against. For the first, roll your weapon damage with a +1 bonus to your Proficiency. Then remove a die from your damage roll and deal the remaining damage to the next target. Continue to remove a die for each subsequent target until you have no more damage dice or adversaries.
 
 You can’t target the same adversary more than once per attack."
@@ -164,7 +164,7 @@ BOOK OF GRYNN,4,Codex,Grimoire,2,"**Arcane Deflection:** Once per long rest, spe
 
 **Time Lock:** Target an object within Far range. That object stops in time and space exactly where it is until your next rest. If a creature tries to move it, make a Spellcast Roll against them to maintain this spell.
 
-**Wall of Flame:** Make a Spellcast Roll (15). On a success, create a wall of magical flame between two points within Far range. All creatures in its path must choose a side to be on, and anything that subsequently passes through the wall takes 4d10+3 magic damage."
+**Wall of Flame:** Make a Spellcast Roll (15). On a success, create a temporary wall of magical flame between two points within Far range. All creatures in its path must choose a side to be on, and anything that subsequently passes through the wall takes 4d10+3 magic damage."
 MANIFEST WALL,5,Codex,Spell,2,"Make a Spellcast Roll (15). Once per rest on a success, spend a Hope to create a temporary magical wall between two points within Far range. It can be up to 50 feet high and form at any angle. Creatures or objects in its path are shunted to a side of their choice. The wall stays up until your next rest or you cast Manifest Wall again."
 TELEPORT,5,Codex,Spell,2,"Once per long rest, you can instantly teleport yourself and any number of willing targets within Close range to a place you’ve been before. Choose one of the following options, then make a Spellcast Roll (16):
 
@@ -216,7 +216,7 @@ INVISIBILITY,3,Grace,Spell,1,"Make a Spellcast Roll (10). On a success, mark a S
 You can only hold Invisibility on one creature at a time."
 SOOTHING SPEECH,4,Grace,Ability,1,"During a short rest, when you take the time to comfort another character while using the Tend to Wounds downtime move on them, clear an additional Hit Point on that character. When you do, you also clear 2 Hit Points."
 THROUGH YOUR EYES,4,Grace,Spell,1,Choose a target within Very Far range. You can see through their eyes and hear through their ears. You can transition between using your own senses or the target’s freely until you cast another spell or until your next rest.
-THOUGHT DELIVER,5,Grace,Spell,2,"You can peek into the minds of others. Spend a Hope to read the vague surface thoughts of a target within Far range. Make a Spellcast Roll against the target to delve for deeper, more hidden thoughts.
+THOUGHT DELVER,5,Grace,Spell,2,"You can peek into the minds of others. Spend a Hope to read the vague surface thoughts of a target within Far range. Make a Spellcast Roll against the target to delve for deeper, more hidden thoughts.
 
 On a roll with Fear, the target might, at the GM’s discretion, become aware that you’re reading their thoughts."
 WORDS OF DISCORD,5,Grace,Spell,1,"Whisper words of discord to an adversary within Melee range and make a Spellcast Roll (13). On a success, the target must mark a Stress and make an attack against another adversary instead of against you or your allies.
@@ -234,7 +234,7 @@ ASTRAL PROJECTION,8,Grace,Spell,0,"Once per long rest, mark a Stress to create a
 You can see and hear through the projection as though it were you and affect the world as though you were there. A creature investigating the projection can tell it’s of magical origin. This effect lasts until your next rest or your projection takes any damage."
 MASS ENRAPTURE,8,Grace,Spell,3,"Make a Spellcast Roll against all targets within Far range. Targets you succeed against become temporarily Enraptured. While Enraptured, a target’s attention is fixed on you, narrowing their field of view and drowning out any sound but your voice. Mark a Stress to force all Enraptured targets to mark a Stress, ending this spell."
 COPYCAT,9,Grace,Spell,3,"Once per long rest, this card can mimic the features of another domain card of level 8 or lower in another player’s loadout. Spend Hope equal to half the card’s level to gain access to the feature. It lasts until your next rest or they place the card in their vault."
-MASTER OF THE CRAFT,10,Grace,Ability,0,Gain a permanent +2 bonus to two of your Experiences or a permanent +3 bonus to one of your Experiences. Then place this card in your vault permanently.
+MASTER OF THE CRAFT,9,Grace,Ability,0,Gain a permanent +2 bonus to two of your Experiences or a permanent +3 bonus to one of your Experiences. Then place this card in your vault permanently.
 ENCORE,10,Grace,Spell,1,"When an ally within Close range deals damage to an adversary, you can make a Spellcast Roll against that same target. On a success, you deal the same damage to the target that your ally dealt. If your Spellcast Roll succeeds with Fear, place this card in your vault."
 NOTORIOUS,10,Grace,Ability,0,"People know who you are and what you’ve done, and they treat you differently because of it. When you leverage your notoriety to get what you want, you can mark a Stress before you roll to gain a +10 bonus to the result. Your food and drinks are always free wherever you go, and everything else you buy is reduced in price by one bag of gold (to a minimum of one handful).
 
@@ -249,7 +249,7 @@ Place a number of tokens equal to your Spellcast trait on this card. When you ta
 MIDNIGHT SPIRIT,2,Midnight,Spell,1,"Spend a Hope to summon a humanoid-sized spirit that can move or carry things for you until your next rest.
 
 You can also send it to attack an adversary. When you do, make a Spellcast Roll against a target within Very Far range. On a success, the spirit moves into Melee range with that target. Roll a number of d6s equal to your Spellcast trait and deal that much magic damage to the target. The spirit then dissipates. You can only have one spirit at a time."
-SHADOWWIND,2,Midnight,Spell,0,Make a Spellcast Roll against all adversaries within Very Close range. Targets you succeed against are temporarily Restrained as their shadow binds them in place.
+SHADOWBIND,2,Midnight,Spell,0,Make a Spellcast Roll against all adversaries within Very Close range. Targets you succeed against are temporarily Restrained as their shadow binds them in place.
 CHOKEHOLD,3,Midnight,Ability,1,"When you position yourself behind a creature who’s about your size, you can mark a Stress to pull them into a chokehold, making them temporarily Vulnerable.
 
 When a creature attacks a target who is Vulnerable in this way, they deal an extra 2d6 damage."

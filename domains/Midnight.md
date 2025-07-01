@@ -7,7 +7,7 @@ Midnight is the domain of shadows and secrecy. Whether by clever tricks, deft ma
 | **Level** | **Option 1**                                             | **Option 2**                                                     | **Option 3**                                           |
 | :-------: | -------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------ |
 |   **1**   | [Pick and Pull](../abilities/Pick%20and%20Pull.md)       | [Rain of Blades](../abilities/Rain%20of%20Blades.md)             | [Uncanny Disguise](../abilities/Uncanny%20Disguise.md) |
-|   **2**   | [Midnight Spirit](../abilities/Midnight%20Spirit.md)     | [Shadowwind](../abilities/Shadowwind.md)                         | —                                                      |
+|   **2**   | [Midnight Spirit](../abilities/Midnight%20Spirit.md)     | [Shadowbind](../abilities/Shadowbind.md)                         | —                                                      |
 |   **3**   | [Chokehold](../abilities/Chokehold.md)                   | [Veil of Night](../abilities/Veil%20of%20Night.md)               | —                                                      |
 |   **4**   | [Stealth Expertise](../abilities/Stealth%20Expertise.md) | [Glyph of Nightfall](../abilities/Glyph%20of%20Nightfall.md)     | —                                                      |
 |   **5**   | [Hush](../abilities/Hush.md)                             | [Phantom Retreat](../abilities/Phantom%20Retreat.md)             | —                                                      |

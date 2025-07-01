@@ -10,7 +10,7 @@
 |   **4**   | [Blink Out](../abilities/Blink%20Out.md)                 | [Preservation Blast](../abilities/Preservation%20Blast.md) | —                                        |
 |   **5**   | [Chain Lightning](../abilities/Chain%20Lightning.md)     | [Premonition](../abilities/Premonition.md)                 | —                                        |
 |   **6**   | [Rift Walker](../abilities/Rift%20Walker.md)             | [Telekinesis](../abilities/Telekinesis.md)                 | —                                        |
-|   **7**   | [Blink Out](../abilities/Blink%20Out.md)                 | [Cloaking Blast](../abilities/Cloaking%20Blast.md)         | —                                        |
+|   **7**   | [Arcana-Touched](../abilities/Arcana-Touched.md)         | [Cloaking Blast](../abilities/Cloaking%20Blast.md)         | —                                        |
 |   **8**   | [Arcane Reflection](../abilities/Arcane%20Reflection.md) | [Confusing Aura](../abilities/Confusing%20Aura.md)         | —                                        |
 |   **9**   | [Earthquake](../abilities/Earthquake.md)                 | [Sensory Projection](../abilities/Sensory%20Projection.md) | —                                        |
 |  **10**   | [Adjust Reality](../abilities/Adjust%20Reality.md)       | [Falling Sky](../abilities/Falling%20Sky.md)               | —                                        |
@@ -68,7 +68,7 @@
 |   **2**   | [Tell No Lies](../abilities/Tell%20No%20Lies.md)         | [Troublemaker](../abilities/Troublemaker.md)                     | —                                                            |
 |   **3**   | [Hypnotic Shimmer](../abilities/Hypnotic%20Shimmer.md)   | [Invisibility](../abilities/Invisibility.md)                     | —                                                            |
 |   **4**   | [Soothing Speech](../abilities/Soothing%20Speech.md)     | [Through Your Eyes](../abilities/Through%20Your%20Eyes.md)       | —                                                            |
-|   **5**   | [Thought Deliver](../abilities/Thought%20Deliver.md)     | [Words of Discord](../abilities/Words%20of%20Discord.md)         | —                                                            |
+|   **5**   | [Thought Delver](../abilities/Thought%20Delver.md)       | [Words of Discord](../abilities/Words%20of%20Discord.md)         | —                                                            |
 |   **6**   | [Never Upstaged](../abilities/Never%20Upstaged.md)       | [Share The Burden](../abilities/Share%20the%20Burden.md)         | —                                                            |
 |   **7**   | [Endless Charisma](../abilities/Endless%20Charisma.md)   | [Grace-Touched](../abilities/Grace-Touched.md)                   | —                                                            |
 |   **8**   | [Astral Projection](../abilities/Astral%20Projection.md) | [Mass Enrapture](../abilities/Mass%20Enrapture.md)               | —                                                            |
@@ -80,7 +80,7 @@
 | **Level** | **Option 1**                                             | **Option 2**                                                     | **Option 3**                                           |
 | :-------: | -------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------ |
 |   **1**   | [Pick and Pull](../abilities/Pick%20and%20Pull.md)       | [Rain of Blades](../abilities/Rain%20of%20Blades.md)             | [Uncanny Disguise](../abilities/Uncanny%20Disguise.md) |
-|   **2**   | [Midnight Spirit](../abilities/Midnight%20Spirit.md)     | [Shadowwind](../abilities/Shadowwind.md)                         | —                                                      |
+|   **2**   | [Midnight Spirit](../abilities/Midnight%20Spirit.md)     | [Shadowbind](../abilities/Shadowbind.md)                         | —                                                      |
 |   **3**   | [Chokehold](../abilities/Chokehold.md)                   | [Veil of Night](../abilities/Veil%20of%20Night.md)               | —                                                      |
 |   **4**   | [Stealth Expertise](../abilities/Stealth%20Expertise.md) | [Glyph of Nightfall](../abilities/Glyph%20of%20Nightfall.md)     | —                                                      |
 |   **5**   | [Hush](../abilities/Hush.md)                             | [Phantom Retreat](../abilities/Phantom%20Retreat.md)             | —                                                      |

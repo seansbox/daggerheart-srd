@@ -146,7 +146,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Bear, Bull, Moose, etc.)
 
-> Strength +1 | Evasion +3 | Melee Strength d10+4 phy  
+> Strength +3 | Evasion +1 | Melee Strength d10+4 phy  
 > **Gain advantage on:** navigate, protect, scare
 
 ***Rampage:*** When you roll a 1 on a damage die, you can roll a d10 and add the result to the damage roll. Additionally, before you make an attack roll, you can mark a Stress to gain a +1 bonus to your Proficiency for that attack.
@@ -160,7 +160,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 > Finesse +1 | Evasion +2 | Very Close Finesse d8+4 phy  
 > **Gain advantage on:** climb, deceive, sprint
 
-***Venomous Strike:*** Make an attack against any number of targets within Very Close range. On a success, a target is temporarily Poisoned. A Poisoned creature takes 1d10 physical direct damage each time they act.
+***Venomous Strike:*** Make an attack against any number of targets within Very Close range. On a success, a target is temporarily Poisoned. A Poisoned creature takes 1d10 direct physical damage each time they act.
 
 ***Warning Hiss:*** Mark a Stress to force any number of targets within Melee range to move back to Very Close range.
 
@@ -246,7 +246,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Griffon, Sphinx, etc.)
 
-> Strength +2 | Evasion +3 | Melee Strength d10+8
+> Strength +2 | Evasion +3 | Melee Strength d10+8 phy
 
 ***Hybrid Features:*** To transform into this creature, mark an additional Stress. Choose any two Beastform options from Tiers 1–2. Choose a total of four advantages and two features from those options.
 

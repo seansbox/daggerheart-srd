@@ -1,4 +1,4 @@
-﻿# THOUGHT DELIVER
+﻿# THOUGHT DELVER
 
 > **Level 5 Grace Spell**  
 > **Recall Cost:** 2

@@ -18,7 +18,7 @@
     "physical_or_magical": "Physical",
     "trait": "Agility",
     "range": "Melee",
-    "damage": "d8+3 phy",
+    "damage": "d10+3 phy",
     "burden": "Two-Handed"
   },
   {
@@ -126,9 +126,8 @@
     "physical_or_magical": "Physical",
     "trait": "Finesse",
     "range": "Very Close",
-    "damage": "d10+2 phy",
+    "damage": "d8+3 phy",
     "burden": "Two-Handed",
-    "feat_name": "Cumbersome",
     "feat_text": "-1 to Finesse"
   },
   {
@@ -190,7 +189,7 @@
     "physical_or_magical": "Magical",
     "trait": "Agility",
     "range": "Very Close",
-    "damage": "d10+1 mag",
+    "damage": "d10+2 mag",
     "burden": "Two-Handed"
   },
   {
@@ -288,7 +287,7 @@
     "physical_or_magical": "Physical",
     "trait": "Agility",
     "range": "Melee",
-    "damage": "d8+6 phy",
+    "damage": "d10+6 phy",
     "burden": "Two-Handed"
   },
   {
@@ -396,9 +395,8 @@
     "physical_or_magical": "Physical",
     "trait": "Finesse",
     "range": "Very Close",
-    "damage": "d10+5 phy",
+    "damage": "d8+6 phy",
     "burden": "Two-Handed",
-    "feat_name": "Cumbersome",
     "feat_text": "-1 to Finesse"
   },
   {
@@ -774,7 +772,7 @@
     "physical_or_magical": "Physical",
     "trait": "Agility",
     "range": "Melee",
-    "damage": "d8+9 phy",
+    "damage": "d10+9 phy",
     "burden": "Two-Handed"
   },
   {
@@ -882,9 +880,8 @@
     "physical_or_magical": "Physical",
     "trait": "Finesse",
     "range": "Very Close",
-    "damage": "d10+8 phy",
+    "damage": "d8+9 phy",
     "burden": "Two-Handed",
-    "feat_name": "Cumbersome",
     "feat_text": "-1 to Finesse"
   },
   {
@@ -1040,6 +1037,220 @@
     "feat_text": "This weapon can also be used with these statistics—Agility, Melee, d10+5."
   },
   {
+    "name": "Advanced Arcane Gauntlets",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Strength",
+    "range": "Melee",
+    "damage": "d10+9 mag",
+    "burden": "Two-Handed"
+  },
+  {
+    "name": "Advanced Hallowed Axe",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Strength",
+    "range": "Melee",
+    "damage": "d8+7 mag",
+    "burden": "One-Handed"
+  },
+  {
+    "name": "Advanced Glowing Rings",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Agility",
+    "range": "Very Close",
+    "damage": "d10+8 mag",
+    "burden": "Two-Handed"
+  },
+  {
+    "name": "Advanced Hand Runes",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Instinct",
+    "range": "Very Close",
+    "damage": "d10+6 mag",
+    "burden": "One-Handed"
+  },
+  {
+    "name": "Advanced Returning Blade",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Finesse",
+    "range": "Close",
+    "damage": "d8+6 mag",
+    "burden": "One-Handed",
+    "feat_name": "Returning",
+    "feat_text": "When this weapon is thrown within its range, it appears in your hand immediately after the attack."
+  },
+  {
+    "name": "Advanced Shortstaff",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Instinct",
+    "range": "Close",
+    "damage": "d8+7 mag",
+    "burden": "One-Handed"
+  },
+  {
+    "name": "Advanced Dualstaff",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Instinct",
+    "range": "Far",
+    "damage": "d6+9 mag",
+    "burden": "Two-Handed"
+  },
+  {
+    "name": "Advanced Scepter",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Presence",
+    "range": "Far",
+    "damage": "d6+6 mag",
+    "burden": "Two-Handed",
+    "feat_name": "Versatile",
+    "feat_text": "This weapon can also be used with these statistics—Presence, Melee, d8+4."
+  },
+  {
+    "name": "Advanced Wand",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Knowledge",
+    "range": "Far",
+    "damage": "d6+7 mag",
+    "burden": "One-Handed"
+  },
+  {
+    "name": "Advanced Greatstaff",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Knowledge",
+    "range": "Very Far",
+    "damage": "d6+6 mag",
+    "burden": "Two-Handed",
+    "feat_name": "Powerful",
+    "feat_text": "On a successful attack, roll an additional damage die and discard the lowest result."
+  },
+  {
+    "name": "Axe of Fortunis",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Strength",
+    "range": "Melee",
+    "damage": "d10+8 mag",
+    "burden": "Two-Handed",
+    "feat_name": "Lucky",
+    "feat_text": "On a failed attack, you can mark a Stress to reroll your attack."
+  },
+  {
+    "name": "Blessed Anlace",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Instinct",
+    "range": "Melee",
+    "damage": "d10+6 mag",
+    "burden": "One-Handed",
+    "feat_name": "Healing",
+    "feat_text": "During downtime, automatically clear a Hit Point."
+  },
+  {
+    "name": "Ghostblade",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Physical or Magical",
+    "trait": "Presence",
+    "range": "Melee",
+    "damage": "d10+7 phy or mag",
+    "burden": "One-Handed",
+    "feat_name": "Otherworldly",
+    "feat_text": "On a successful attack, you can deal physical or magic damage."
+  },
+  {
+    "name": "Runes of Ruination",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Knowledge",
+    "range": "Very Close",
+    "damage": "d20+4 mag",
+    "burden": "One-Handed",
+    "feat_name": "Painful",
+    "feat_text": "Each time you make a successful attack, you must mark a Stress."
+  },
+  {
+    "name": "Widgast Pendant",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Knowledge",
+    "range": "Close",
+    "damage": "d10+5 mag",
+    "burden": "One-Handed",
+    "feat_name": "Timebending",
+    "feat_text": "You choose the target of your attack after making your attack roll."
+  },
+  {
+    "name": "Gilded Bow",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Finesse",
+    "range": "Far",
+    "damage": "d6+7 mag",
+    "burden": "Two-Handed",
+    "feat_name": "Self-Correcting",
+    "feat_text": "When you roll a 1 on a damage die, it deals 6 damage instead."
+  },
+  {
+    "name": "Firestaff",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Instinct",
+    "range": "Far",
+    "damage": "d6+7 mag",
+    "burden": "Two-Handed",
+    "feat_name": "Burning",
+    "feat_text": "When you roll a 6 on a damage die, the target must mark a Stress."
+  },
+  {
+    "name": "Mage Orb",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Knowledge",
+    "range": "Far",
+    "damage": "d6+7 mag",
+    "burden": "One-Handed",
+    "feat_name": "Powerful",
+    "feat_text": "On a successful attack, roll an additional damage die and discard the lowest result."
+  },
+  {
+    "name": "Ilmari's Rifle",
+    "primary_or_secondary": "Primary",
+    "tier": "3",
+    "physical_or_magical": "Magical",
+    "trait": "Finesse",
+    "range": "Very Far",
+    "damage": "d6+6 mag",
+    "burden": "One-Handed",
+    "feat_name": "Reloading",
+    "feat_text": "After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
+  },
+  {
     "name": "Legendary Broadsword",
     "primary_or_secondary": "Primary",
     "tier": "4",
@@ -1058,7 +1269,7 @@
     "physical_or_magical": "Physical",
     "trait": "Agility",
     "range": "Melee",
-    "damage": "d8+12 phy",
+    "damage": "d10+12 phy",
     "burden": "Two-Handed"
   },
   {
@@ -1166,9 +1377,8 @@
     "physical_or_magical": "Physical",
     "trait": "Finesse",
     "range": "Very Close",
-    "damage": "d10+11 phy",
+    "damage": "d8+12 phy",
     "burden": "Two-Handed",
-    "feat_name": "Cumbersome",
     "feat_text": "-1 to Finesse"
   },
   {
@@ -1817,7 +2027,7 @@
     "damage": "d4+4 phy",
     "burden": "One-Handed",
     "feat_name": "Deflecting",
-    "feat_text": "When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your Armor Score against the attack."
+    "feat_text": "When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your available Armor Slots against the attack."
   },
   {
     "name": "Powered Gauntlet",

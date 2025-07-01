@@ -277,7 +277,7 @@
   {
     "roll": "56",
     "name": "Sweet Moss",
-    "description": "You can consume this moss during a rest to clear 1d4 HP or 1d4 Stress."
+    "description": "You can consume this moss during a rest to clear 1d10 HP or 1d10 Stress."
   },
   {
     "roll": "57",

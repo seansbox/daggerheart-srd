@@ -1,4 +1,4 @@
-﻿# SHADOWWIND
+﻿# SHADOWBIND
 
 > **Level 2 Midnight Spell**  
 > **Recall Cost:** 0

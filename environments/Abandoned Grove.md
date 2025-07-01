@@ -15,7 +15,7 @@
   - A moss-covered tree trunk is actually the corpse of a treant.
   - Still-standing trees are twisted in strange ways, as if by powerful magic.
 
-***Barbed Vines - Action:*** Pick a point within the grove. All targets within Very Close range of that point must succeed on an Agility Reaction Roll or take 1d8+3 physical damage and become Restrained by barbed vines. Restrained creatures until they’re freed with a successful Finesse or Strength roll or by dealing at least 6 damage to the vines.
+***Barbed Vines - Action:*** Pick a point within the grove. All targets within Very Close range of that point must succeed on an Agility Reaction Roll or take 1d8+3 physical damage and become Restrained by barbed vines. Restrained lasts until they’re freed with a successful Finesse or Strength roll or by dealing at least 6 damage to the vines.
 
 ***You Are Not Welcome Here - Action:*** A Young Dryad, two Sylvan Soldiers, and a number of Minor Treants equal to the number of PCs appear to confront the party for their intrusion.
 

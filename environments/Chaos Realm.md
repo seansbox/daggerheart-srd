@@ -15,7 +15,7 @@
 
 ***Everything You Are This Place Will Take from You - Action:*** Countdown (Loop 14). Activate the countdown. When it triggers, all PCs must succeed on a Presence Reaction Roll or their highest trait is temporarily reduced by 1d4 unless they mark a number of Stress equal to its value. Any lost trait points are regained if the PC critically succeeds or escapes the Chaos Realm.
 
-  *How does this place try to steal from you that which makes you legendary? What does it feel to have this power taken from you?*
+  *How does this place try to steal from you that which makes you legendary? What does it feel like to have this power taken from you?*
 
 ***Unmake - Action:*** On a failure, they take 4d10 direct magic damage. On a success, they must mark a Stress.
 

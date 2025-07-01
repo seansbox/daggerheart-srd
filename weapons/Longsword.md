@@ -1,6 +1,6 @@
 ﻿# LONGSWORD
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8+3 phy; **Burden:** Two-Handed
+**Trait:** Agility; **Range:** Melee; **Damage:** d10+3 phy; **Burden:** Two-Handed
 
 **Feature:** —
 

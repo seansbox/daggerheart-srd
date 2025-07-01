@@ -26,7 +26,7 @@ Choose any two **advancements** with at least one unmarked slot from your tier o
 - *When you choose to **increase two unmarked character traits** and mark them:* Choose two unmarked character traits and gain a permanent +1 bonus to them. You can’t increase these stats again until the next tier (when your tier achievement allows you to clear those marks).
 - *When you choose to **permanently add 1 or more Hit Point slots:*** Darken the outline of the next rectangle in the Hit Point section of your character sheet in pen or permanent marker.
 - *When you choose to **permanently add 1 or more Stress slots:*** Darken the outline of the next rectangle in the Stress section of your character sheet in pen or permanent marker.
-- *When you choose to **increase an Experience:*** Gain a permanent +1 bonus to an Experience.
+- *When you choose to **increase your Experience:*** Choose two Experiences on your character sheet and gain a permanent +1 bonus to both.
 - *When you take an **additional domain card:*** You can choose an additional domain card at or below your level for your class’s domains. If you’ve multiclassed, you can instead select a card at or below half your level from your chosen multiclass domain.
 - *When you choose to **increase your Evasion:*** Gain a permanent +1 bonus to your Evasion.
 - *When you choose to **take an upgraded subclass card:*** Take the next card for your subclass. If you have only the foundation card, take a specialization; if you have a specialization already, take a mastery. Then cross out this tier’s multiclass option.

@@ -54,7 +54,7 @@
 53,Shrinking Potion,"You can drink this potion to halve your size until you choose to drop this form or your next rest. While in this form, you have a +2 bonus to Agility and a –1 penalty to your Proficiency."
 54,Growing Potion,"You can drink this potion to double your size until you choose to drop this form or your next rest. While in this form, you have a +2 bonus to Strength and a +1 bonus to your Proficiency."
 55,Knowledge Stone,"If you die while holding this stone, an ally can take a card from your loadout to place in their loadout or vault. After they take this knowledge, the stone crumbles."
-56,Sweet Moss,You can consume this moss during a rest to clear 1d4 HP or 1d4 Stress.
+56,Sweet Moss,You can consume this moss during a rest to clear 1d10 HP or 1d10 Stress.
 57,Blinding Orb,You can activate this orb to create a flash of bright light. All targets within Close range become Blinded until they mark HP.
 58,Death Tea,"After you drink this tea, you instantly kill your target when you critically succeed on an attack. If you don’t critically succeed on an attack before your next long rest, you die."
 59,Mirror of Marigold,"When you take damage, you can spend a Hope to negate that damage, after which the mirror shatters."

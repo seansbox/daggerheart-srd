@@ -14,6 +14,6 @@
 
 ***Our Master’s Will - Reaction:*** When you spotlight an ally within Far range, mark a Stress to gain a Fear.
 
-***Summoning Ritual - Reaction:*** Countdown (6). When the Secret-Keeper is in the spotlight for the first time, activate the countdown. When they mark HP, tick up this countdown by the number of HP marked. When it triggers, summon a Minor Demon who appears at Close range.
+***Summoning Ritual - Reaction:*** Countdown (6). When the Secret-Keeper is in the spotlight for the first time, activate the countdown. When they mark HP, tick down this countdown by the number of HP marked. When it triggers, summon a Minor Demon who appears at Close range.
 
 ***Fallen Hounds - Reaction:*** Once per scene, when the Secret-Keeper marks 2 or more HP, you can mark a Stress to summon a Demonic Hound Pack, which appears at Close range and is immediately spotlighted.

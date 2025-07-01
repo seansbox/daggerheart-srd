@@ -12,7 +12,7 @@ Arcana is the domain of innate and instinctual magic. Those who choose this path
 |   **4**   | [Blink Out](../abilities/Blink%20Out.md)                 | [Preservation Blast](../abilities/Preservation%20Blast.md) | —                                        |
 |   **5**   | [Chain Lightning](../abilities/Chain%20Lightning.md)     | [Premonition](../abilities/Premonition.md)                 | —                                        |
 |   **6**   | [Rift Walker](../abilities/Rift%20Walker.md)             | [Telekinesis](../abilities/Telekinesis.md)                 | —                                        |
-|   **7**   | [Blink Out](../abilities/Blink%20Out.md)                 | [Cloaking Blast](../abilities/Cloaking%20Blast.md)         | —                                        |
+|   **7**   | [Arcana-Touched](../abilities/Arcana-Touched.md)         | [Cloaking Blast](../abilities/Cloaking%20Blast.md)         | —                                        |
 |   **8**   | [Arcane Reflection](../abilities/Arcane%20Reflection.md) | [Confusing Aura](../abilities/Confusing%20Aura.md)         | —                                        |
 |   **9**   | [Earthquake](../abilities/Earthquake.md)                 | [Sensory Projection](../abilities/Sensory%20Projection.md) | —                                        |
 |  **10**   | [Adjust Reality](../abilities/Adjust%20Reality.md)       | [Falling Sky](../abilities/Falling%20Sky.md)               | —                                        |

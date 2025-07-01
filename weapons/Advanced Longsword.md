@@ -1,6 +1,6 @@
 ﻿# ADVANCED LONGSWORD
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8+9 phy; **Burden:** Two-Handed
+**Trait:** Agility; **Range:** Melee; **Damage:** d10+9 phy; **Burden:** Two-Handed
 
 **Feature:** —
 

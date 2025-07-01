@@ -29,7 +29,11 @@ The adversary’s type appears alongside their tier. An adversary’s **type** r
 
 ### DESCRIPTION
 
+A summary of the adversary's appearance and demeanor.
+
 ### MOTIVES & TACTICS
+
+Suggusted impulses, actions and goals for the adversary.
 
 ### DIFFICULTY
 
@@ -204,6 +208,7 @@ This section contains the following stat blocks:
 - [Sylvan Soldier](../adversaries/Sylvan%20Soldier.md)
 - [Tangle Bramble Swarm](../adversaries/Tangle%20Bramble%20Swarm.md)
 - [Tangle Bramble](../adversaries/Tangle%20Bramble.md)
+- [Weaponmaster](../adversaries/Weaponmaster.md)
 - [Young Dryad](../adversaries/Young%20Dryad.md)
 - [Brawny Zombie](../adversaries/Brawny%20Zombie.md)
 - [Patchwork Zombie Hulk](../adversaries/Patchwork%20Zombie%20Hulk.md)
@@ -266,7 +271,7 @@ This section contains the following stat blocks:
 - [Huge Green Ooze](../adversaries/Huge%20Green%20Ooze.md)
 - [Hydra](../adversaries/Hydra.md)
 - [Monarch](../adversaries/Monarch.md)
-- [Stag Knight](../adversaries/Stag%20Knight.md) *(currently missing from SRD 1.0)*
+- [Stag Knight](../adversaries/Stag%20Knight.md)
 - [Oak Treant](../adversaries/Oak%20Treant.md)
 - [Treant Sapling](../adversaries/Treant%20Sapling.md)
 - [Head Vampire](../adversaries/Head%20Vampire.md)
