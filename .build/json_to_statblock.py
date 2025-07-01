@@ -35,7 +35,7 @@ for adversary in data:
     # Join the feats list into a single string
     feats = '\n  '.join(feats)
       
-    markdown_output =  f"""```statblock
+  markdown_output =  f"""```statblock
 layout: Daggerheart
 image:
 name: {adversary['name'].replace(':',' - ')}
@@ -57,14 +57,14 @@ feats:
 """
 
     # Ensure the tier directory exists
-    tier_dir = os.path.join(statblock_dir, f'Tier {adversary["tier"]}')
-    if not os.path.exists(tier_dir):
-      os.makedirs(tier_dir)
+  tier_dir = os.path.join(statblock_dir, f'Tier {adversary["tier"]}')
+  if not os.path.exists(tier_dir):
+    os.makedirs(tier_dir)
 
-    # Write the markdown output to a file
-    statblock_output = os.path.join(statblock_dir, f'Tier {adversary['tier']}',f'{adversary['name'].replace(':','_')}.md')
-    with open(statblock_output, 'w') as statblock:
-        statblock.write(markdown_output)
-    
-    # Print the output file path for confirmation
-    print(statblock_output)
+  # Write the markdown output to a file
+  statblock_output = os.path.join(statblock_dir, f'Tier {adversary['tier']}',f'{adversary['name'].replace(':','_')}.md')
+  with open(statblock_output, 'w') as statblock:
+      statblock.write(markdown_output)
+  
+  # Print the output file path for confirmation
+  print(statblock_output)

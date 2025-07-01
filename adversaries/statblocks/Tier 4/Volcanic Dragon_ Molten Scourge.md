@@ -24,5 +24,9 @@ feats:
   - name: Eruption - Action
     desc: Spend a Fear to erupt lava from beneath the Scourge’s scales, filling area within Very Close range with lava. All targets must make Agility Reaction Roll or take 4d6+6 physical damage and be knocked back to Close range. The area remains lava (6 HP damage on entry or action).
   - name: Volcanic Breath - Reaction
-    desc: When the Scourge takes Major damage, roll d10. On 8+, erupt lava in Very Close range -  Agility Reaction Roll or take 2d10+4 physical damage, mark 1d4 Stress, and are Vulnerable until clearing a Stress; success = half damage + mark a Stress.;Lava Splash - Reaction;When the Scourge takes Severe damage from attack within Very Close, molten blood deals 2d10+4 direct physical damage to attacker.;Ashen Vengeance (Phase Change) - Reaction;When the Scourge marks last HP, replace with Ashen Tyrant and immediately spotlight.
+    desc: When the Scourge takes Major damage, roll d10. On 8+, erupt lava in Very Close range -  Agility Reaction Roll or take 2d10+4 physical damage, mark 1d4 Stress, and are Vulnerable until clearing a Stress; success = half damage + mark a Stress.
+  - name: Lava Splash - Reaction
+    desc: When the Scourge takes Severe damage from attack within Very Close, molten blood deals 2d10+4 direct physical damage to attacker.
+  - name: Ashen Vengeance (Phase Change) - Reaction
+    desc: When the Scourge marks last HP, replace with Ashen Tyrant and immediately spotlight.
 ```
