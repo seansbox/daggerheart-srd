@@ -22,13 +22,13 @@ if not os.path.exists(statblock_dir):
 
 # Iterate through each adversary in the JSON data and generate the markdown output
 for adversary in data:
-    markdown_output =  f"""---
+    markdown_output =  f"""```statblock
 layout: Daggerheart
 image:
-name: {adversary['name']}
-desc: {adversary['description']}
-exp: {adversary['experience'] if 'experience' in adversary else '0'}
-mt: {adversary['motives_and_tactics']}
+name: {adversary['name'].replace(':','')}
+desc: {adversary['description'].replace(':','')}
+exp: {adversary['experience'] if 'experience' in adversary else ''}
+mt: {adversary['motives_and_tactics'].replace(':','')}
 tier: {adversary['tier']}
 type: {adversary['type']}
 scores: [{adversary['difficulty']}, {adversary['thresholds']}, {adversary['hp']}, {adversary['stress']}]
@@ -39,23 +39,23 @@ dmg: {adversary['attack']} - {adversary['range']}
 dmg_roll: {adversary['damage']}
 dmg_dice: {adversary['damage']}
 feats:
-  - name: {adversary['feats'][0]['name'] if len(adversary['feats']) > 0 else ''}
-    desc: {adversary['feats'][0]['text'] if len(adversary['feats']) > 0 else ''}
-  - name: {adversary['feats'][1]['name'] if len(adversary['feats']) > 1 else ''}
-    desc: {adversary['feats'][1]['text'] if len(adversary['feats']) > 1 else ''}
-  - name: {adversary['feats'][2]['name'] if len(adversary['feats']) > 2 else ''}
-    desc: {adversary['feats'][2]['text'] if len(adversary['feats']) > 2 else ''}
-  - name: {adversary['feats'][3]['name'] if len(adversary['feats']) > 3 else ''}
-    desc: {adversary['feats'][3]['text'] if len(adversary['feats']) > 3 else ''}
-  - name: {adversary['feats'][4]['name'] if len(adversary['feats']) > 4 else ''}
-    desc: {adversary['feats'][4]['text'] if len(adversary['feats']) > 4 else ''}
-  - name: {adversary['feats'][5]['name'] if len(adversary['feats']) > 5 else ''}
-    desc: {adversary['feats'][5]['text'] if len(adversary['feats']) > 5 else ''}
-  - name: {adversary['feats'][6]['name'] if len(adversary['feats']) > 6 else ''}
-    desc: {adversary['feats'][6]['text'] if len(adversary['feats']) > 6 else ''}
-  - name: {adversary['feats'][7]['name'] if len(adversary['feats']) > 7 else ''}
-    desc: {adversary['feats'][7]['text'] if len(adversary['feats']) > 7 else ''}
----
+  - name: {adversary['feats'][0]['name'].replace(':','') if len(adversary['feats']) > 0 else ''}
+    desc: {adversary['feats'][0]['text'].replace(':','') if len(adversary['feats']) > 0 else ''}
+  - name: {adversary['feats'][1]['name'].replace(':','') if len(adversary['feats']) > 1 else ''}
+    desc: {adversary['feats'][1]['text'].replace(':','') if len(adversary['feats']) > 1 else ''}
+  - name: {adversary['feats'][2]['name'].replace(':','') if len(adversary['feats']) > 2 else ''}
+    desc: {adversary['feats'][2]['text'].replace(':','') if len(adversary['feats']) > 2 else ''}
+  - name: {adversary['feats'][3]['name'].replace(':','') if len(adversary['feats']) > 3 else ''}
+    desc: {adversary['feats'][3]['text'].replace(':','') if len(adversary['feats']) > 3 else ''}
+  - name: {adversary['feats'][4]['name'].replace(':','') if len(adversary['feats']) > 4 else ''}
+    desc: {adversary['feats'][4]['text'].replace(':','') if len(adversary['feats']) > 4 else ''}
+  - name: {adversary['feats'][5]['name'].replace(':','') if len(adversary['feats']) > 5 else ''}
+    desc: {adversary['feats'][5]['text'].replace(':','') if len(adversary['feats']) > 5 else ''}
+  - name: {adversary['feats'][6]['name'].replace(':','') if len(adversary['feats']) > 6 else ''}
+    desc: {adversary['feats'][6]['text'].replace(':','') if len(adversary['feats']) > 6 else ''}
+  - name: {adversary['feats'][7]['name'].replace(':','') if len(adversary['feats']) > 7 else ''}
+    desc: {adversary['feats'][7]['text'].replace(':','') if len(adversary['feats']) > 7 else ''} 
+```
 """
 
     # Ensure the tier directory exists

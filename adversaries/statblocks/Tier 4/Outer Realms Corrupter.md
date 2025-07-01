@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Outer Realms Corrupter
 desc: A shifting, formless mass seemingly made of chromatic light.
-exp: 0
+exp: 
 mt: Confuse, distract, overwhelm
 tier: 4
 type: Support
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

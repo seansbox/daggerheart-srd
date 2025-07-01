@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Outer Realms Thrall
 desc: A vaguely humanoid form stripped of memory and identity.
-exp: 0
+exp: 
 mt: Destroy, disgust, disorient, intimidate
 tier: 4
 type: Minion
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

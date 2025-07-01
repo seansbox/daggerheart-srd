@@ -1,4 +1,4 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Oracle of Doom
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

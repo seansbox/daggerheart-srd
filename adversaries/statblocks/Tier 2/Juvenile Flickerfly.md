@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Juvenile Flickerfly
 desc: A horse-sized insect with iridescent scales and crystalline wings moving faster than the eye can see.
-exp: 0
+exp: 
 mt: Collect shiny things, hunt, swoop
 tier: 2
 type: Solo
@@ -21,7 +21,7 @@ feats:
     desc: Before the Flickerfly makes an attack, roll a d6. On a result of 4 or higher, the target’s Evasion is halved against this attack.
   - name: Mind Dance - Action
     desc: Mark a Stress to create a magically dazzling display that grapples the minds of nearby foes. All targets within Close range must make an Instinct Reaction Roll. For each target who failed, you gain a Fear and the Flickerfly learns one of the target’s fears.
-  - name: Hallucinatory Breath - Reaction: Countdown (Loop 1d6)
+  - name: Hallucinatory Breath - Reaction Countdown (Loop 1d6)
     desc: When the Flickerfly takes damage for the first time, activate the countdown. When it triggers, the Flickerfly breathes hallucinatory gas on all targets in front of them up to Far range. Targets must succeed on an Instinct Reaction Roll or be tormented by fearful hallucinations. Targets whose fears are known to the Flickerfly have disadvantage on this roll. Targets who fail must mark a Stress and lose a Hope.
   - name: 
     desc: 
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

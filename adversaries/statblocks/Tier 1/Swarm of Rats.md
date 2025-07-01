@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Swarm of Rats
 desc: A skittering mass of ordinary rodents moving as one like a ravenous wave.
-exp: 0
+exp: 
 mt: Consume, obscure, swarm
 tier: 1
 type: Horde (10/HP)
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Conscript
 desc: A poorly trained civilian pressed into war.
-exp: 0
+exp: 
 mt: Follow orders, gang up, survive
 tier: 2
 type: Minion
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

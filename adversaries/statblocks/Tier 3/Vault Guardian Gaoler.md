@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Vault Guardian Gaoler
 desc: A boxy, dust-covered construct with thick metallic swinging doors on their torso.
-exp: 0
+exp: 
 mt: Carry away, entrap, protect, pummel
 tier: 3
 type: Support
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

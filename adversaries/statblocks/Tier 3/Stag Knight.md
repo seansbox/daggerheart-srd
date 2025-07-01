@@ -1,4 +1,4 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Stag Knight
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

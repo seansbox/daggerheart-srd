@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Glass Snake
 desc: A clear serpent with a massive head that leaves behind a glass shard trail wherever they go.
-exp: 0
+exp: 
 mt: Climb, feed, keep distance, scare
 tier: 1
 type: Standard
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

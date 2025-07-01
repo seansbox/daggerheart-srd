@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Minor Fire Elemental
 desc: A living flame the size of a large bonfire.
-exp: 0
+exp: 
 mt: Encircle enemies, grow in size, intimidate, start fires
 tier: 1
 type: Solo
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Vault Guardian Sentinel
 desc: A dust-covered golden construct with boxy limbs and a huge mace for a hand.
-exp: 0
+exp: 
 mt: Destroy at any cost, expunge, protect
 tier: 3
 type: Bruiser
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

@@ -1,7 +1,7 @@
----
+```statblock
 layout: Daggerheart
 image:
-name: Fallen Warlord: Realm-Breaker
+name: Fallen Warlord Realm-Breaker
 desc: A fallen God, wreathed in rage and resentment, bearing millennia of experience in breaking heroes’ spirits.
 exp: Conquest +3, History +2, Intimidation +3
 mt: Corrupt, dominate, punish, break the weak
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

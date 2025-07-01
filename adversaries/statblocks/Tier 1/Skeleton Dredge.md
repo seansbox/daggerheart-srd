@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Skeleton Dredge
 desc: A clattering pile of bones.
-exp: 0
+exp: 
 mt: Fall apart, overwhelm, play dead, steal skin
 tier: 1
 type: Minion
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

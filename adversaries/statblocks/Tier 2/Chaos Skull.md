@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Chaos Skull
 desc: A floating humanoid skull animated by scintillating magic.
-exp: 0
+exp: 
 mt: Cackle, consume magic, serve creator
 tier: 2
 type: Ranged
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

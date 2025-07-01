@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Elemental Spark
 desc: A blazing mote of elemental fire.
-exp: 0
+exp: 
 mt: Blast, consume, gain mass
 tier: 3
 type: Minion
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

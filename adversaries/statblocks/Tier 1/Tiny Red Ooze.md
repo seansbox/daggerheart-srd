@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Tiny Red Ooze
 desc: A small moving mound of translucent flaming red slime.
-exp: 0
+exp: 
 mt: Blaze, camouflage
 tier: 1
 type: Skulk
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

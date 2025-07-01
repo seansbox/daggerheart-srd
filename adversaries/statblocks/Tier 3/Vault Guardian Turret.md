@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Vault Guardian Turret
 desc: A massive hulking turret with reinforced armor and twelve piston-driven mechanical legs.
-exp: 0
+exp: 
 mt: Concentrate fire, lock down, mark, protect
 tier: 3
 type: Ranged
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

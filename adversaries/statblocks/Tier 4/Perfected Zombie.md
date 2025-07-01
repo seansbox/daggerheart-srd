@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Perfected Zombie
 desc: A towering, muscular zombie with magically infused strength and skill.
-exp: 0
+exp: 
 mt: Consume, hound, maim, terrify
 tier: 4
 type: Bruiser
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

@@ -1,7 +1,7 @@
----
+```statblock
 layout: Daggerheart
 image:
-name: Fallen Warlord: Undefeated Champion
+name: Fallen Warlord Undefeated Champion
 desc: That which only the most feared have a chance to fear.
 exp: Conquest +3, History +2, Intimidation +3
 mt: Dispatch merciless death, punish the defiant, secure victory at any cost
@@ -30,5 +30,5 @@ feats:
   - name: Doombringer - Reaction
     desc: When a target marks HP from an attack by the Undefeated Champion, all PCs within Far range of the target lose a Hope.
   - name: 
-    desc: 
----
+    desc:  
+```

@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Skeleton Warrior
 desc: A dirt-covered skeleton armed with a rusted blade.
-exp: 0
+exp: 
 mt: Feign death, gang up, steal skin
 tier: 1
 type: Standard
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

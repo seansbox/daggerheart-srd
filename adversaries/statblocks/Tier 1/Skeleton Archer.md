@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Skeleton Archer
 desc: A fragile skeleton with a shortbow and arrows.
-exp: 0
+exp: 
 mt: Perforate distracted targets, play dead, steal skin
 tier: 1
 type: Ranged
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

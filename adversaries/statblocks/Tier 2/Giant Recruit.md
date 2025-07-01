@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Giant Recruit
 desc: A giant fighter undergoing borrowed armor.
-exp: 0
+exp: 
 mt: Batter, make a living, overwhelm, terrify
 tier: 2
 type: Minion
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

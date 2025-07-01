@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Cult Fang
 desc: A professional killer-turned-cultist.
-exp: 0
+exp: 
 mt: Capture sacrifices, isolate prey, rise in the ranks
 tier: 2
 type: Skulk
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

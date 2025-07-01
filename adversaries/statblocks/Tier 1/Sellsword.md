@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Sellsword
 desc: An armed mercenary testing their luck.
-exp: 0
+exp: 
 mt: Charge, lacerate, overwhelm, profit
 tier: 1
 type: Minion
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Hallowed Soldier
 desc: Souls of the faithful, lifted up with divine weaponry.
-exp: 0
+exp: 
 mt: Obey, outmaneuver, punish, swarm
 tier: 4
 type: Minion
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

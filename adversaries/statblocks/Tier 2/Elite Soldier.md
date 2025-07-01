@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Elite Soldier
 desc: An armored squire or experienced commoner looking to advance.
-exp: 0
+exp: 
 mt: Gain glory, keep order, make alliances
 tier: 2
 type: Standard
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

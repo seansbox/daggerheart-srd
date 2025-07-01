@@ -1,7 +1,7 @@
----
+```statblock
 layout: Daggerheart
 image:
-name: Volcanic Dragon: Obsidian Predator
+name: Volcanic Dragon Obsidian Predator
 desc: A massive winged creature with obsidian scales and impossibly sharp claws.
 exp: Hunt from Above +5
 mt: Defend lair, dive-bomb, fly, hunt, intimidate
@@ -22,7 +22,7 @@ feats:
   - name: Obsidian Scales - Passive
     desc: Resistant to physical damage.
   - name: Obsidian Tail - Action
-    desc: Mark a Stress to make attack against all targets within Close range. Success: 4d6+4 physical damage, knocked to Far range and Vulnerable until next roll with Hope.
+    desc: Mark a Stress to make attack against all targets within Close range. Success 4d6+4 physical damage, knocked to Far range and Vulnerable until next roll with Hope.
   - name: Dive-Bomb - Action
     desc: If flying, mark a Stress to choose point within Far range, move there, attack all targets within Very Close range; on success, 2d10+6 physical, mark a Stress, lose a Hope.
   - name: Erupting Rage (Phase Change) - Reaction
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

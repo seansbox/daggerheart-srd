@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Zombie Legion
 desc: A large pack of undead, still powerful despite their rotting flesh.
-exp: 0
+exp: 
 mt: Consume brain, shred flesh, surround
 tier: 4
 type: Horde (3/HP)
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

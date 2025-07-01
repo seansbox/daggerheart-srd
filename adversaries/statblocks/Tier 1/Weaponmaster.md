@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Weaponmaster
 desc: A master-at-arms wielding a sword twice their size.
-exp: 0
+exp: 
 mt: Act first, aim for the weakest, intimidate
 tier: 1
 type: Bruiser
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

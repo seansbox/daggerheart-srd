@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Shambling Zombie
 desc: An animated corpse that moves shakily, driven only by hunger.
-exp: 0
+exp: 
 mt: Devour, hungry, mob enemy, shred flesh
 tier: 1
 type: Standard
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

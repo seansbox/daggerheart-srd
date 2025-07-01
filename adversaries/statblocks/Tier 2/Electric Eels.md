@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Electric Eels
 desc: A swarm of eels that encircle and electrocute.
-exp: 0
+exp: 
 mt: Avoid larger predators, shock prey, tear apart
 tier: 2
 type: Horde (2/HP)
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

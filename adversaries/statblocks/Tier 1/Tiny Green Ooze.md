@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Tiny Green Ooze
 desc: A small moving mound of translucent green slime.
-exp: 0
+exp: 
 mt: Camouflage, creep up
 tier: 1
 type: Skulk
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

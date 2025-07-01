@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Minor Chaos Elemental
 desc: A coruscating mass of uncontrollable magic.
-exp: 0
+exp: 
 mt: Confound, destabilize, transmogrify
 tier: 1
 type: Solo
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

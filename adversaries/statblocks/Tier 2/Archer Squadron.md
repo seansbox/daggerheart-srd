@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Archer Squadron
 desc: A group of trained archers bearing massive bows.
-exp: 0
+exp: 
 mt: Stick together, survive, volley fire
 tier: 2
 type: Horde (2/HP)
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Fallen Shock Troop
 desc: A cursed soul bound to the Fallen’s will.
-exp: 0
+exp: 
 mt: Crush, dominate, earn relief, punish
 tier: 4
 type: Minion
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

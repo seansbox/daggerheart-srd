@@ -1,7 +1,7 @@
----
+```statblock
 layout: Daggerheart
 image:
-name: Volcanic Dragon: Ashen Tyrant
+name: Volcanic Dragon Ashen Tyrant
 desc: A legendary, lava-hardened dragon. No enemy has ever had the insolence to wound the dragon so.
 exp: Hunt from Above +5
 mt: Choke, fly, intimidate, kill or be killed
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

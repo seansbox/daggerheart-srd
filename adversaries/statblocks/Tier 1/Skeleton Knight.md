@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Skeleton Knight
 desc: A large armored skeleton with a huge blade.
-exp: 0
+exp: 
 mt: Cut down the living, steal skin, wreak havoc
 tier: 1
 type: Bruiser
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

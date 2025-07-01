@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Outer Realms Abomination
 desc: A chaotic mockery of life, constantly in flux.
-exp: 0
+exp: 
 mt: Confuse, demolish, devour, undermine
 tier: 4
 type: Bruiser
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

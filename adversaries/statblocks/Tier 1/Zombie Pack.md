@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Zombie Pack
 desc: A group of shambling corpses instinctively moving together.
-exp: 0
+exp: 
 mt: Consume flesh, hunger, maul
 tier: 1
 type: Horde (2/HP)
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

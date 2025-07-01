@@ -1,4 +1,4 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Demon of Wrath
@@ -21,7 +21,7 @@ feats:
     desc: Spend a Fear to boil the blood of all PCs within Far range. They use a d20 as their Fear Die until the end of the scene.
   - name: Retaliation - Reaction
     desc: When the Demon takes damage from an attack within Close range, you can mark a Stress to make a standard attack against the attacker.
-  - name: Blood and Souls - Reaction: Countdown (Loop 6)
+  - name: Blood and Souls - Reaction Countdown (Loop 6)
     desc: Activate the first time an attack is made within sight of the Demon. It ticks down when a PC takes a violent action. When it triggers, summon 1d4 Minor Demons, who appear at Close range.
   - name: 
     desc: 
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

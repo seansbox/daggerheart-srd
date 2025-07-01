@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Hydra
 desc: A quadrupedal scaled beast with multiple long-necked heads, each filled with menacing fangs.
-exp: 0
+exp: 
 mt: Devour, regenerate, terrify
 tier: 3
 type: Solo
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

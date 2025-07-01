@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Greater Earth Elemental
 desc: A living landslide of boulders and dust, as large as a house.
-exp: 0
+exp: 
 mt: Avalanche, knock over, pummel
 tier: 3
 type: Bruiser
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

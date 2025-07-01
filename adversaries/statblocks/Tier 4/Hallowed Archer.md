@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Hallowed Archer
 desc: Spirit soldiers with sanctified bows.
-exp: 0
+exp: 
 mt: Focus fire, obey, retribution, volley
 tier: 4
 type: Ranged
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Minor Demon
 desc: A crimson-hued creature from the Circles Below, consumed by rage against all mortals.
-exp: 0
+exp: 
 mt: Act erratically, corral targets, relish pain, torment
 tier: 1
 type: Solo
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

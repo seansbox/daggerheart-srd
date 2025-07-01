@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Giant Eagle
 desc: A giant bird of prey with blood-stained talons.
-exp: 0
+exp: 
 mt: Hunt prey, stay mobile, strike decisively
 tier: 2
 type: Skulk
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

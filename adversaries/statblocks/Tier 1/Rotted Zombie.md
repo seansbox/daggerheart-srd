@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Rotted Zombie
 desc: A decaying corpse ambling toward their prey.
-exp: 0
+exp: 
 mt: Eat flesh, hunger, maul, surround
 tier: 1
 type: Minion
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

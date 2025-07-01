@@ -1,4 +1,4 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Masked Thief
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Tangle Bramble
 desc: An animate, blood-drinking tumbleweed.
-exp: 0
+exp: 
 mt: Consume, drain, entangle
 tier: 1
 type: Minion
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

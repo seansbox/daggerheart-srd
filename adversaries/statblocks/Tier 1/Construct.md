@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Construct
 desc: A roughly humanoid being of stone and steel, assembled and animated by magic.
-exp: 0
+exp: 
 mt: Destroy environment, serve creator, smash target, trample groups
 tier: 1
 type: Solo
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```

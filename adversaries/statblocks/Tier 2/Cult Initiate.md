@@ -1,9 +1,9 @@
----
+```statblock
 layout: Daggerheart
 image:
 name: Cult Initiate
 desc: A low-ranking cultist in simple robes, eager to gain power.
-exp: 0
+exp: 
 mt: Follow orders, gain power, seek forbidden knowledge
 tier: 2
 type: Minion
@@ -30,5 +30,5 @@ feats:
   - name: 
     desc: 
   - name: 
-    desc: 
----
+    desc:  
+```
