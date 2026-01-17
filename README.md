@@ -1,3 +1,10 @@
+# Installation
+In order to use this content all that is needed is to download the zip file containing the source code (`Download ZIP` option under the big green `<> Code` button in the github repo), once downloaded you may simply extract the ZIP into your vault directly, but I would extract it somewhere else and then copy over the files that you want, since the repo contains some directories and files that you probably don't want (like the `.build`,`.github`,`.obsidian` as well as the licenses and README)
+
+Once the content is downloaded and inside your vault, install the **[Fantasy Statblocks Plugin](https://github.com/javalent/fantasy-statblocks)**, enable it, go to the settings, go to the `Layouts` section and click `Import from JSON`, then import both of the layouts provided in this repository, in the [layouts](layouts) folder.
+I would also recommend to set the folder where you have stored your adversaries and environments in the `Bestiary Folder` section of the settings, under `Note Parsing`.
+
+If all you want is working statblocks then you are done! However, you may find my plugin **[Daggerheart Combat Tracker](https://github.com/Batres3/daggerheart-tracker)** useful and it is integrated with the content provided in this repository, so setup should be simple.
 # DAGGERHEART SRD
 
 ***Welcome to DAGGERHEART,*** *a collaborative fantasy tabletop roleplaying game of incredible magic and heroic, heartfelt adventure.*
