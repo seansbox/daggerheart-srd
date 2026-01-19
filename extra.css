@@ -1,0 +1,6 @@
+strong em,
+em strong {
+  color: #e38c3e !important;
+}
+
+h1, h2, h3, h4 { color: var(--md-code-hl-constant-color) !important; }
