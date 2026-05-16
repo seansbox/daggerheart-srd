@@ -4,5 +4,5 @@
 
 - **Trait:** Agility
 - **Range:** Very Close
-- **Damage:** d10+2 mag
+- **Damage:** d10+1 mag
 - **Burden:** Two-Handed
