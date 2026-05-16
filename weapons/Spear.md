@@ -4,5 +4,9 @@
 
 - **Trait:** Finesse
 - **Range:** Very Close
-- **Damage:** d8+3 phy
+- **Damage:** d10+2 phy
 - **Burden:** Two-Handed
+
+### FEATURE
+
+**_Cumbersome:_** -1 to Finesse
