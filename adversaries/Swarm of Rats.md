@@ -1,6 +1,6 @@
 # Swarm of Rats
 
-**_Tier 1 Horde (/HP)._** _A skittering mass of ordinary rodents moving as one like a ravenous wave._
+**_Tier 1 Horde (10/HP)._** _A skittering mass of ordinary rodents moving as one like a ravenous wave._
 
 - **Motives & Tactics:** Consume, obscure, swarm
 - **Difficulty:** 10 | **Thresholds:** 6/10 | **HP:** 6 | **Stress:** 2

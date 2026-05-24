@@ -143,7 +143,7 @@ Your character's **heritage** combines two elements: **ancestry** and **communit
 
 Your character has six traits that represent their physical, mental, and social aptitude:
 
-- **Agility** (Use it to Sprint, Leap, Maneuver,etc.) A high Agility means you're fast on your feet, nimble on dicult terrain, and quick to react to danger. You'll make an Agility Roll to scurry up a rope, sprint to cover, or bound from rooftop to rooftop.
+- **Agility** (Use it to Sprint, Leap, Maneuver, etc.) A high Agility means you're fast on your feet, nimble on difficult terrain, and quick to react to danger. You'll make an Agility Roll to scurry up a rope, sprint to cover, or bound from rooftop to rooftop.
 - **Strength** (Use it to Lift, Smash, Grapple, etc.) A high Strength means you're better at feats that test your physical prowess and stamina. You'll make a Strength Roll to break through a door, lift heavy objects, or hold your ground against a charging foe.
 - **Finesse** (Use it to Control, Hide, Tinker, etc.) A high Finesse means you're skilled at tasks that require accuracy, stealth, or the utmost control. You'll make a Finesse Roll to use fine tools, escape notice, or strike with precision.
 - **Instinct** (Use it to Perceive, Sense, Navigate, etc.) A high Instinct means you have a keen sense of your surroundings and a natural intuition. You'll make an Instinct Roll to sense danger, notice details in the world around you, or track an elusive foe.
@@ -168,7 +168,7 @@ When you "roll with a trait," that trait's modifier is added to the roll's total
 
 Choose your **weapon(s):**
 
-- Select from the Tier 1 Weapon Tables. Either a **twohanded primary weapon** or a **one-handed primary weapon and a one-handed secondary weapon.**Then equip your selection by recording it in the Active Weapon field of your character sheet.
+- Select from the Tier 1 Weapon Tables. Either a **two-handed primary weapon** or a **one-handed primary weapon and a one-handed secondary weapon.**Then equip your selection by recording it in the Active Weapon field of your character sheet.
 - At Level 1, your **Proficiency** is 1; write this number in the Proficiency field on your character sheet, then calculate and record your **damage roll** by combining your Proficiency value with your equipped weapon(s) **damage dice.** _Example: If your Proficiency is 1 and your weapon's damage dice is d6+1, your damage roll is 1d6+1. Proficiency only determines how many damage dice you roll, and does not affect any flat damage modifiers._
 
 Choose and equip one set of **armor** from the Tier 1 Armor Table, then record its details in the **Active Armor** field of your character sheet.
@@ -282,7 +282,7 @@ Each domain card includes six elements:
 
 ###### LOADOUT & VAULT
 
-Your **loadout** is the set of acquired domain cards whose effects your PC can use during play. You can have up to 5 domain cards in your loadout at one time. Once you've acquired six or more domain cards, you must choose five to keep in your loadout; the rest are considered to be in your **vault.** Vault cards are inactive and do not influence play
+Your **loadout** is the set of acquired domain cards whose effects your PC can use during play. You can have up to 5 domain cards in your loadout at one time. Once you've acquired six or more domain cards, you must choose five to keep in your loadout; the rest are considered to be in your **vault.** Vault cards are inactive and do not influence play.
 
 > _**Note:** Your subclass, ancestry, and community cards don't count toward your loadout or vault and are always active and available._
 
@@ -430,7 +430,7 @@ Any time a character does something to advance the story, such as speaking with 
 
 ##### ACTION ROLLS
 
-Any move where success would be trivial or failure would be boring automatically succeeds, but any move that's dicult to accomplish or risky to attempt triggers an **action roll.**
+Any move where success would be trivial or failure would be boring automatically succeeds, but any move that's difficult to accomplish or risky to attempt triggers an **action roll.**
 
 ##### OVERVIEW
 
@@ -545,7 +545,7 @@ If you critically succeed on a reaction roll, you don't clear a Stress or gain a
 
 When multiple PCs take action together, the party chooses one PC to **lead the action.** Each other player then describes how their character collaborates on the task. The leader makes an action roll as usual, while the other players make reaction rolls using whichever traits they and the GM decide fit best.
 
-The lead character gains a +1 bonus to their lead action roll for each of these reaction rolls that succeeded and a -1 penalty for each these reaction rolls that failed.
+The lead character gains a +1 bonus to their lead action roll for each of these reaction rolls that succeeded and a -1 penalty for of each these reaction rolls that failed.
 
 ###### TAG TEAM ROLLS
 
@@ -568,7 +568,7 @@ Some features and effects let you roll with advantage or disadvantage on an acti
 
 Advantage or disadvantage can be granted or imposed by mechanical triggers or at the GM's discretion. When a PC aids you with Help an Ally, they roll their own advantage die and you add it to your total.
 
-Advantage and disadvantage dice cancel each out, one-forone, when they would be added to the same dice pool, so you'll never roll both at the same time. If you have advantage or disadvantage from other sources that don't affect your own dice pool, such as another player's Help an Ally move, their effects stack with your rolled results.
+Advantage and disadvantage dice cancel each other out, one-for-one, when they would be added to the same dice pool, so you'll never roll both at the same time. If you have advantage or disadvantage from other sources that don't affect your own dice pool, such as another player's Help an Ally move, their effects stack with your rolled results.
 
 #### HOPE & FEAR
 
@@ -599,7 +599,7 @@ Though Daggerheart relies on the same flow of collaborative storytelling in and 
 
 **Evasion** represents a character's ability to avoid attacks and other unwanted effects. Any roll made against a PC has a Difficulty equal to the target's Evasion. A PC's base Evasion is determined by their class, but can be modified by domain cards, equipment, conditions, and other effects.
 
-> _**Note**: attacks rolled against adversaries use the target's Difficulty instead of Evasion._
+> _**Note**: Attacks rolled against adversaries use the target's Difficulty instead of Evasion._
 
 #### HIT POINTS & DAMAGE THRESHOLDS
 
@@ -642,7 +642,7 @@ An **attack roll** is an action roll intended to inflict harm. The trait that ap
 
 ###### DAMAGE ROLLS
 
-On a successful attack, roll damage. Damage is calculated from the **damage roll** listed in the attack's description with the format "xdy+[modifier]" _(e.g., for a spell that inflicts "1d8+2" damage, you roll an eight-sided and add 2 to the result; the damage dealt is equal to the total)._
+On a successful attack, roll damage. Damage is calculated from the **damage roll** listed in the attack's description with the format "xdy+[modifier]" _(e.g., for a spell that inflicts "1d8+2" damage, you roll an eight-sided die and add 2 to the result; the damage dealt is equal to the total)._
 
 Any time an effect says to deal damage using your Spellcast trait, you roll a number of dice equal to your Spellcast trait.
 
@@ -773,7 +773,7 @@ A **long rest** is when the characters make camp and relax or sleep for several 
 
 - **Tend to All Wounds:** Clear all Hit Points for yourself or an ally.
 - **Clear All Stress:** Clear all Stress.
-- **Repair All Armor:** Clear all Armor Slots from your or an ally's armor
+- **Repair All Armor:** Clear all Armor Slots from your or an ally's armor.
 - **Prepare:** Describe how you prepare for the next day's adventure, then gain a Hope. If you choose to Prepare with one or more members of your party, you each gain 2 Hope.
 - **Work on a Project:** With GM approval, a PC may pursue a long-term project, such as deciphering an ancient text or crafting a new weapon. The first time they start a new project, assign it a countdown. Each time a PC makes the Work on a Project move, they either advance their project's countdown automatically or make an action roll to advance it (GM's choice).
 
@@ -1818,13 +1818,14 @@ When a player makes an action roll without a specified Difficulty, the GM sets t
 
 ###### KNOWLEDGE
 
-| ROLL | RECALL                                               | ANALYZE                                                       | COMPREHEND                                                   |
-| ---- | ---------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------ |
-| 5    | Recall uncommon facts about your community.          | Unpack an obvious metaphor in a simple text.                  | Learn simple skills from an excellent teacher.               |
-| 10   | Recall uncommon facts about a neighboring community. | Identify obvious subtext in a conversation.                   | Learn simple skills from an average teacher.                 |
-| 15   | Recall uncommon facts about a distant community.     | Break an average cipher in a coded message.                   | Learn complicated skills from an excellent teacher.          |
-| 20   | Recall specialized facts about a distant community.  | Identify a weakness in a complicated battle plan.             | Learn complicated skills under poor conditions.              |
-| 25   | Recall specialized facts about a fallen kingdom.     | Predict the downfall of a nation based on concealed misdeeds. | Learn complicated skills quickly under dangerous conditions. |
+| ROLL | RECALL                                                       | ANALYZE                                                       | COMPREHEND                                                    |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------- | ------------------------------------------------------------- |
+| 5    | Recall uncommon facts about your community.                  | Unpack an obvious metaphor in a simple text.                  | Learn simple skills from an excellent teacher.                |
+| 10   | Recall uncommon facts about a neighboring community.         | Identify obvious subtext in a conversation.                   | Learn simple skills from an average teacher.                  |
+| 15   | Recall uncommon facts about a distant community.             | Break an average cipher in a coded message.                   | Learn complicated skills from an excellent teacher.           |
+| 20   | Recall specialized facts about a distant community.          | Identify a weakness in a complicated battle plan.             | Learn complicated skills under poor conditions.               |
+| 25   | Recall specialized facts about a fallen kingdom.             | Predict the downfall of a nation based on concealed misdeeds. | Learn complicated skills quickly under dangerous conditions.  |
+| 30   | Recall secret information about an obscure historical group. | Identify the weakness in a divine champion’s fighting form.   | Learn complicated skills quickly from incomplete information. |
 
 ##### GIVING ADVANTAGE AND DISADVANTAGE
 
@@ -1834,7 +1835,7 @@ To viscerally convey how a PC's actions or circumstances affect their ability to
 
 By default, adversaries don't normally make action rolls except for attack rolls and any unique actions described in their stat blocks. Any other action an adversary attempts simply succeeds without an action roll; if you want an adversary's action to have a chance of failure, have any relevant PCs make reaction rolls instead.
 
-However, for especially dramatic or dicult tasks that the PCs can't influence, you can give an adversary an **action roll** anyway. For an adversary's action roll, roll a d20. If the result is equal to or greater than the action's Difficulty, the action succeeds—otherwise it fails. You can spend a Fear before rolling to add a relevant Experience from the adversary's stat block to the total. Use the same procedure when an adversary makes a **reaction roll.**
+However, for especially dramatic or difficult tasks that the PCs can't influence, you can give an adversary an **action roll** anyway. For an adversary's action roll, roll a d20. If the result is equal to or greater than the action's Difficulty, the action succeeds—otherwise it fails. You can spend a Fear before rolling to add a relevant Experience from the adversary's stat block to the total. Use the same procedure when an adversary makes a **reaction roll.**
 
 ###### ADVERSARY ADVANTAGE & DISADVANTAGE
 
@@ -1883,9 +1884,7 @@ It's up to you and your players how much importance you want to place on gold, e
 
 Adjust the availability and utility of wealth and equipment to reflect the tone, themes, and setting of your campaign.
 
-If you don't wish to track gold, then when PCs go shopping for new items let them pick one or two from a short, preselected
-
-list that aligns with your campaign setting and the party's current location.
+If you don't wish to track gold, then when PCs go shopping for new items let them pick one or two from a short, preselected list that aligns with your campaign setting and the party's current location.
 
 Otherwise, set the prices of goods and services by adjusting the entries in the Average Costs table to reflect your campaign setting:
 
@@ -1907,7 +1906,7 @@ Otherwise, set the prices of goods and services by adjusting the entries in the 
 
 When you run NPCs as the GM, you should always strive to follow your GM principles and use them to bring the world to life. Differentiate NPCs with unique manners of speech and action; let their individual goals and desires motivate their actions.
 
-The only essential elements for a NPC are their **name, description,** and **motive.** If it's likely that the PCs will roll actions against them, give them a **Difficulty.** Adversaries can be invented or improvised by modifying the stat block of another adversary.
+The only essential elements for an NPC are their **name, description,** and **motive.** If it's likely that the PCs will roll actions against them, give them a **Difficulty.** Adversaries can be invented or improvised by modifying the stat block of another adversary.
 
 If an NPC becomes an ally in combat, they don't need a stat block—just put the spotlight on what they do and show how their involvement alters the fiction. If a PC capitalizes on their help during the scene, give the PC advantage. NPCs that don't have Hit Points or Stress can still be injured or killed if the fiction demands it.
 
@@ -1973,7 +1972,7 @@ If a character collides with an object or another character at a dangerous speed
 
 By default, attack rolls made while the attacker is underwater have disadvantage.
 
-For creatures that can't breathe underwater, use a standard countdown (3) to track how long they can hold their breath. Advance the countdown whenever the PC takes an action. In addition if they fail a roll or roll with Fear while underwater, you can spend your GM move to advance it an additional time—or twice, if they rolled a failure with Fear.
+For creatures that can't breathe underwater, use a standard countdown (3) to track how long they can hold their breath. Advance the countdown whenever the PC takes an action. In addition, if they fail a roll or roll with Fear while underwater, you can spend your GM move to advance it an additional time—or twice, if they rolled a failure with Fear.
 
 Once the countdown ends, the underwater PC must mark a Stress whenever they take an action.
 
@@ -2020,7 +2019,7 @@ A summary of the adversary's appearance and demeanor.
 
 ###### MOTIVES & TACTICS
 
-Suggusted impulses, actions and goals for the adversary.
+Suggested impulses, actions and goals for the adversary.
 
 ###### DIFFICULTY
 
@@ -2056,7 +2055,7 @@ The GM can spend a Fear to add an adversary's relevant Experience to raise their
 
 ###### FEATURE(S)
 
-There are three kinds of adversary features: **actions, reactions,** and **passives.** Note: each adversaries stress is tracked individually. If a feature requires the GM to spend Stress to activate it, the Stress must come from the adversary whose feature is being activate. If a feature has a Fear requirement, it must be spent in addition to any Fear already spent—for instance, to interrupt the PCs and put the spotlight on the adversary.
+There are three kinds of adversary features: **actions, reactions,** and **passives.** Note: each adversary's stress is tracked individually. If a feature requires the GM to spend Stress to activate it, the Stress must come from the adversary whose feature is being activated. If a feature has a Fear requirement, it must be spent in addition to any Fear already spent—for instance, to interrupt the PCs and put the spotlight on the adversary.
 
 - **Actions:** a special attack or other unique action that the adversary can perform when the spotlight is on them.
 - **Reactions:** special effects that take effect when their trigger occurs, regardless of whether the spotlight is on the adversary.
@@ -2450,7 +2449,7 @@ Make battles by shifting the nature of its enemies or environment mid-combat:
 
 Use downtime scenes as a pressure release valve to vary the intensity of the story and give the PCs room to breathe.
 
-Empower your players to frame their own downtime scenes. Ask the players what it looks like as they tend to their wounds or unwind together, encouraging them to take the reins and work with other players whose characters are involved
+Empower your players to frame their own downtime scenes. Ask the players what it looks like as they tend to their wounds or unwind together, encouraging them to take the reins and work with other players whose characters are involved.
 
 ##### PROJECTS DURING DOWNTIME
 
@@ -2656,8 +2655,7 @@ But this cycle doesn't just affect Wicklings, it's dictated how Fanewick's wondr
 
 The plague sweeping across Haven spares no one. Since the initial outbreak, Haven ocials have worked tirelessly to quarantine those in the early stages of the disease, but this effort has done little to stop its spread. Due to the rarity of crimson lady's veil, many citizens began to carry or consume all manner of flowers and snake sheddings in an attempt to protect or cure themselves.
 
-In the initial stages, victims are a
-icted with a hacking cough laden with dust that resembles powdered bone. Then a scaled rash erupts across their skin, cracking their flesh in a unique and painful pattern that resembles a snake's skin. Not long after, the victims' bodies harden until their organs solidify and cease to function. The final stages of the Serpent's Sickness is so quick that many transform into statues where they stand, leaving all of Haven a cenotaph to a once-great power.
+In the initial stages, victims are afflicted with a hacking cough laden with dust that resembles powdered bone. Then a scaled rash erupts across their skin, cracking their flesh in a unique and painful pattern that resembles a snake's skin. Not long after, the victims' bodies harden until their organs solidify and cease to function. The final stages of the Serpent's Sickness is so quick that many transform into statues where they stand, leaving all of Haven a cenotaph to a once-great power.
 
 ###### LADY'S VEIL
 

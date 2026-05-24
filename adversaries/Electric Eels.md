@@ -1,6 +1,6 @@
 # Electric Eels
 
-**_Tier 2 Horde (/HP)._** _A swarm of eels that encircle and electrocute._
+**_Tier 2 Horde (2/HP)._** _A swarm of eels that encircle and electrocute._
 
 - **Motives & Tactics:** Avoid larger predators, shock prey, tear apart
 - **Difficulty:** 14 | **Thresholds:** 10/20 | **HP:** 5 | **Stress:** 3

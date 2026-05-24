@@ -14,6 +14,6 @@
 
 **_Remake Reality - Action:_** **Spend a Fear** to transform the area within Very Close range into a different biome. All targets within this area take **2d6+3** direct magic damage.
 
-**_Magical reflection - Reaction:_** When the Elemental takes damage from an attack within Close range, deal an amount of damage to the attacker equal to half the damage they dealt.
+**_Magical Reflection - Reaction:_** When the Elemental takes damage from an attack within Close range, deal an amount of damage to the attacker equal to half the damage they dealt.
 
 **_Momentum - Reaction:_** When the Elemental makes a successful attack against a PC, you gain a Fear.
