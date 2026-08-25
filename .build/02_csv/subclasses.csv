@@ -70,3 +70,252 @@ Call of the Brave,Play the Call of the Brave if you want to use the might of you
 Call of the Slayer,Play the Call of the Slayer if you want to strike down adversaries with immense force.,,Slayer,"You gain a pool of dice called Slayer Dice. On a roll with Hope, you can place a **d6** on this card instead of gaining a Hope, adding the die to the pool. You can store a number of Slayer Dice equal to your Proficiency. When you make an attack roll or damage roll, you can spend any number of these Slayer Dice, rolling them and adding their result to the roll. At the end of each session, clear any unspent Slayer Dice on this card and gain a Hope per die cleared.",,,Weapon Specialist,"You can wield multiple weapons with dangerous ease. When you succeed on an attack, you can **spend a Hope** to add one of the damage dice from your secondary weapon to the damage roll. Additionally, once per long rest when you roll your Slayer Dice, reroll any 1s.",,,Martial Preparation,"You're an inspirational warrior to all who travel with you. Your party gains access to the Martial Preparation downtime move. To use this move during a rest, describe how you instruct and train with your party. You and each ally who chooses this downtime move gain a **d6** Slayer Die. A PC with a Slayer Die can spend it to roll the die and add the result to an attack or damage roll of their choice.",,
 School of Knowledge,Play the School of Knowledge if you want a keen understanding of the world around you.,Knowledge,Prepared,Take an additional domain card of your level or lower from a domain you have access to.,Adept,"When you Utilize an Experience, you can **mark a Stress** instead of spending a Hope. If you do, double your Experience modifier for that roll.",Accomplished,Take an additional domain card of your level or lower from a domain you have access to.,Perfect Recall,"Once per rest, when you recall a domain card in your vault, you can reduce its Recall Cost by 1.",Brilliant,Take an additional domain card of your level or lower from a domain you have access to.,Honed Expertise,"When you use an Experience, roll a **d6.** On a result of 5 or higher, you can use it without spending Hope."
 School of War,Play the School of War if you want to utilize trained magic for violence.,Knowledge,Battlemage,You've focused your studies on becoming an unconquerable force on the battlefield. Gain an additional Hit Point slot.,Face Your Fear,"When you succeed with Fear on an attack roll, you deal an extra **1d10** magic damage.",Conjure Shield,"You can maintain a protective barrier of magic. While you have at least 2 Hope, you add your Proficiency to your Evasion.",Fueled by Fear,"The extra magic damage from your ""Face Your Fear"" feature increases to **2d10**.",Thrive in Chaos,"When you succeed on an attack, you can **mark a Stress** after rolling damage to force the target to mark an additional Hit Point.",Have No Fear,"The extra magic damage from your ""Face Your Fear"" feature increases to **3d10.**"
+Juggernaut,"JUGGERNAUT
+Play the Juggernaut if you want to pulverize your opponents
+with crushing blows.
+FOUNDATION FEATURES
+Rugged: Gain a permanent +3 bonus to your Severe damage
+threshold.
+Overwhelm: When you succeed on an attack against a
+target, you can spend a Hope to throw the target within
+Close range or to force them to mark a Stress.
+SPECIALIZATION FEATURES
+Surrounded: When you make an attack with a Melee
+weapon, you can spend any number of Hope to target an
+equal number of additional creatures within Melee range.
+Eye for an Eye: Once per rest when an adversary within
+Melee range forces you to mark any number of Hit Points,
+you can mark a Stress to force them to mark the same
+number of Hit Points.
+MASTERY FEATURE
+Pummeljoy: When you critically succeed on a Melee
+weapon attack, you gain an additional Hope, clear an
+additional Stress, and gain a +1 bonus to your Proficiency
+for that attack.
+Not Done Yet: When you take Severe damage, you can gain
+a Hope or clear a Stress.",,,,,,,,,,,,,
+Martial Artist,"MARTIAL ARTIST
+Play the Martial Artist if you want to use a variety of fighting
+styles to eliminate your foes.
+FOUNDATION FEATURE
+Stance Fighter: You can channel your inner resolve to shift
+into martial stances that grant you special benefits in
+combat.
+T ake the Martial Stances sheet and choose two martial
+stances from Tier 1. Each time you level up your character,
+choose an additional stance from your tier or lower.
+SPECIALIZATION FEATURES
+Keen Defenses: When you’re targeted by an attack, you
+can spend a Focus to gain a bonus to your Evasion equal to
+your tier against the attack.
+Focus Cannon: Spend a Focus to make an Instinct Roll
+against an adversary within Far range. On a success, deal
+d20+3  magic damage using your Proficiency.
+MASTERY FEATURE
+Limit Breaker: Once per rest, you can perform an
+unbelievable feat of athletic prowess, such as running
+across water, leaping between distant rooftops, or scaling a
+building without needing to roll. When you do, gain a Hope
+and clear a Stress.
+Flow State: You can mark a Stress instead of spending a
+Focus to shift into a different stance. Additionally, you can
+spend a Focus instead of marking a Stress to start a combo
+strike.",,,,,,,,,,,,,
+Pact of the Endless,"PACT OF THE ENDLESS
+Play the Pact of the Endless if you want to stand strong
+against enemies and avoid death.
+SPELLCAST TRAIT
+Presence
+FOUNDATION FEATURES
+Patron’s Mantle: Spend a Favor to cloak yourself in a
+terrifying aspect of your Patron that lasts until you take
+Severe damage or the scene ends. While this effect is
+active, you gain a bonus to your damage thresholds equal
+to your tier and have advantage on action rolls to intimidate
+a target.
+Deathless Embrace: Once per rest, spend any number
+of Favor to roll an equal number of Patron Dice. For each
+result of 4 or higher, clear a Hit Point.
+SPECIALIZATION FEATURES
+Harrowing Invocation: When an adversary targets you or
+an ally within Very Close range with an attack, you can
+spend a Favor to give them disadvantage on the roll. If the
+adversary fails the roll, they must also mark a Stress.
+Damage Sink: Once per rest, you can spend a Favor to
+halve incoming damage.
+MASTERY FEATURES
+Dark Aegis: Once per long rest when you would take
+damage, you can spend a Favor instead of marking Hit
+Points.
+Draining Bane: When an adversary targets you or an ally
+within Very Close range with an attack, you can spend
+a Favor to Drain them. When you do, they must mark a
+Stress, and you can clear a Stress. While Drained, the
+target uses a d12  instead of a d20 for attack rolls (including
+for advantage or disadvantage) until they fail a roll.",,,,,,,,,,,,,
+Pact of the Wrathful,"PACT OF THE WRATHFUL
+Play the Pact of the Wrathful if you want to destroy those who
+act against you.
+SPELLCAST TRAIT
+Presence
+FOUNDATION FEATURES
+Patron’s Fury: Spend a Favor to imbue your attacks with
+your Patron’s power until you deal Severe damage or the
+scene ends. When you roll damage while this effect is
+active, you also roll a number of Patron Dice equal to your
+tier and add their total to the damage dealt.
+Deadly Vengeance: When you mark any number of Hit
+Points from an attack, you can spend a Favor to roll an
+equal number of Patron Dice. For each result of 4 or higher,
+the attacker marks a Hit Point.
+SPECIALIZATION FEATURES
+Menacing Reach: Spend a Favor to increase the range of
+your primary weapon by one step (such as Melee to Very
+Close or Very Close to Close) to a maximum of Very Far
+range. This effect ends when you make a successful attack
+with that weapon.
+Diminish My Foes: When you succeed with Hope on an
+action roll against a target, you can spend any number
+of Favor to force the target to mark an equal number of
+Stress.
+MASTERY FEATURES
+Fearsome Attack: Spend a Favor to reroll any number of
+your damage dice. You can continue spending Favor to use
+this feature on the same damage roll.
+Otherworldly Ire: Once per rest when you take damage, you
+can spend any number of Favor to roll that many Patron
+Dice and target a number of creatures within Close range
+equal to the highest result. Each target must mark a Hit
+Point.",,,,,,,,,,,,,
+Hedge,"HEDGE
+Play the Hedge if you want to use your craft to empower
+yourself and your party.
+SPELLCAST TRAIT
+Knowledge
+FOUNDATION FEATURES
+Herbal Remedies: When you or an ally in the scene clears
+1 or more Hit Points or Stress as the result of using a
+consumable, increase the number cleared by 1.
+Enchanted Talisman: Once per rest, you can imbue a small
+item with your protective essence. Spend any number
+of Hope to place an equal number of tokens on this card.
+When the person holding the talisman takes damage,
+spend a token to reduce the number of Hit Points they
+mark by one. Clear all tokens from this card when you take
+a rest.
+SPECIALIZATION FEATURES
+Walk Between Worlds: During a moment of calm, make
+a Spellcast Roll (13) . Once per rest on a success, you
+can mark a Stress to step beyond the veil of death and
+converse with any nearby spirits. Place a number of tokens
+equal to your Spellcast trait on this card and remove one
+each time a spirit answers a question. When the last token
+is removed or at the end of the scene, you return to the
+Mortal Realm in the same spot you left it.
+Vexing Malison: You have advantage on attacks against
+Hexed creatures.
+MASTERY FEATURES
+Circle of Power: Once per rest, mark a circle on the ground
+outlining a Very Close area around you, and place a number
+of tokens equal to your Spellcast trait on this card. While
+within this circle, you and your allies gain a +2 bonus to
+damage thresholds, attack rolls, and Evasion. Remove a
+token each time you or an ally within the circle makes an
+action roll or evades an attack. This spell lasts until the last
+token is removed or you exit the circle.
+29
+Daggerheart SRD
+<!-- PDF page 30 -->",,,,,,,,,,,,,
+Moon,"MOON
+Play the Moon if you want to embody celestial power to
+amplify your magic.
+SPELLCAST TRAIT
+Instinct
+FOUNDATION FEATURES
+Night’s Glamour: Make a Spellcast Roll (13)  to Glamour
+yourself in a bewitching facade. While Glamoured, you have
+advantage on rolls that leverage your illusory appearance.
+Additionally, adversaries within Close range must mark a
+Stress to attack you.
+Unless you mark a Stress to maintain your Glamour, it
+drops when you mark a Hit Point or deal damage.
+SPECIALIZATION FEATURES
+Moonbeam: Once per session, you can conjure a column of
+moonlight that illuminates the area within Close range until
+the end of the scene. While bathed in this moonlight, you
+and your allies gain a +1 bonus to Spellcast Rolls and can
+see through illusions.
+Ire of Pale Light: When a Hexed creature within Very Far
+range fails an attack, they must mark a Stress.
+MASTERY FEATURES
+Lunar Phases: At the beginning of each session, roll a d6
+and place it on this card. You gain the matching effect until
+the end of session.
+Roll Phase Effect
+1 New Spend a Hope to negate Minor damage.
+2 – 3 Waxing +2  to damage rolls
+4 Full +3  to damage thresholds
+5 – 6 Waning +1  to Evasion
+Once per rest, you can spend a Hope to increase the
+value of this die by one. If you increase the value of a 6, it
+becomes a 1.",,,,,,,,,,,,,
+Executioners Guild,"EXECUTIONERS GUILD
+Play the Executioners Guild if you want to strike down your
+targets with lethal precision.
+SPELLCAST TRAIT
+Agility
+FOUNDATION FEATURES
+First Strike: The first time in a scene you succeed on an
+attack, you deal double damage.
+Ambush: Your “Marked for Death” feature uses d6s  instead
+of d4s.
+SPECIALIZATION FEATURES
+Death Strike: When you deal Severe damage to a creature,
+you can mark a Stress to force them to mark an additional
+Hit Point.
+Scorpion’s Poise: You gain a +2 bonus to your Evasion
+against attacks made by a creature you’ve Marked for
+Death.
+MASTERY FEATURES
+True Strike: Once per long rest when you fail an attack, you
+can spend a Hope to make it a success instead.
+Backstab: Your “Marked for Death” feature uses d8s
+instead of d6s.
+9
+Daggerheart SRD
+<!-- PDF page 10 -->",,,,,,,,,,,,,
+Poisoners Guild,"POISONERS GUILD
+Play the Poisoners Guild if you want to debilitate your targets
+with punishing afflictions.
+SPELLCAST TRAIT
+Knowledge
+FOUNDATION FEATURE
+Toxic Concoctions: Mark a Stress to place 1d4+1  tokens on
+this card. When you make a successful weapon attack, you
+can spend a token to afflict the target with a poison. You
+know these poisons:
+ ◦ Ghost Petal: The target becomes temporarily Vulnerable.
+ ◦ Grave Spore: The target must also mark a Stress.
+ ◦ Leech Weed: You deal an extra 1d6  damage on this
+attack.
+When you take a long rest, clear all unspent tokens.
+SPECIALIZATION FEATURES
+Poison Compendium: You also know these poisons:
+ ◦ Midnight Vine: The target has disadvantage on attack
+rolls until it marks a Stress to clear this condition.
+ ◦ Gorgon Root: The target becomes temporarily
+Restrained.
+Twin Fang: When you afflict a target Marked for Death with
+a poison you know, you can spend an additional token to
+also inflict the effect of a second poison you know.
+MASTERY FEATURES
+Venomancer: You also know these poisons:
+ ◦ Blight Seed: The target gains a −3 penalty to their
+damage thresholds until the end of the scene. This
+effect can’t stack.
+ ◦ Fear Leaf: You deal extra damage equal to the result of
+your Fear Die on this attack.
+ ◦ Corpse Thorn: The target gains disadvantage on reaction
+rolls until the end of the scene.
+Adder’s Blessing: You are immune to poisons and other
+toxins.",,,,,,,,,,,,,

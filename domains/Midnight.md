@@ -1,6 +1,12 @@
 # Midnight
 
-Midnight is the domain of **shadows and secrecy.** Whether by clever tricks, deft magic, or the cloak of night, those who channel these forces practice the art of obscurity and can uncover sequestered treasures. Midnight offers practitioners the power to control and create enigmas. The Midnight domain can be accessed by the **Rogue** and **Sorcerer** classes.
+Midnight is the domain of shadows and secrecy. Whether
+by clever tricks, deft magic, or the cloak of night, those who
+channel these forces practice the art of obscurity and can
+uncover sequestered treasures. Midnight offers practitioners
+the power to control and create enigmas. The Midnight
+domain can be accessed by the Assassin, Rogue, and
+Sorcerer classes.
 
 ### DOMAIN CARDS
 

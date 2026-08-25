@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	markdownPath := ".build/01_pdf/DH-SRD-2025-09-09.md"
+	markdownPath := ".build/01_pdf/DH-SRD-2.0-2026-08-25.md"
 	contentBytes, err := os.ReadFile(markdownPath)
 	if err != nil {
 		fmt.Printf("Error reading markdown file: %v\n", err)

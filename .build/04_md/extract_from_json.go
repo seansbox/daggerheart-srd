@@ -15,7 +15,7 @@ func main() {
 	jsonDir := ".build/03_json"
 	templateDir := ".build/04_md/templates"
 	outputDir := ".build/04_md/docs"
-	srdBasePath := ".build/01_pdf/DH-SRD-2025-09-09.md"
+	srdBasePath := ".build/01_pdf/DH-SRD-2.0-2026-08-25.md"
 	srdPath := "README.md"
 
 	entries, err := os.ReadDir(jsonDir)
@@ -125,6 +125,7 @@ func normalizeItem(item map[string]any) {
 	ensureSlice(item, "feature")
 	ensureSlice(item, "background")
 	ensureSlice(item, "connection")
+	ensureSlice(item, "question")
 	ensureSlice(item, "foundation")
 	ensureSlice(item, "specialization")
 	ensureSlice(item, "mastery")

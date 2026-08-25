@@ -23,3 +23,176 @@ Katari,"Katari are feline humanoids with retractable claws, vertically slit pupi
 Orc,"Orcs are humanoids most easily recognized by their square features and boar-like tusks that protrude from their lower jaw. Tusks come in various sizes, and though they extend from the mouth, they aren't used for consuming food. Instead, many orcs choose to decorate their tusks with significant ornamentation. Orcs typically live for 125 years, and unless altered, their tusks continue to grow throughout the course of their lives. Their ears are pointed, and their hair and skin typically have green, blue, pink, or gray tones. Orcs tend toward a muscular build, and their average height ranges from 5 feet to 6 ½ feet.",Sturdy,"When you have 1 Hit Point remaining, attacks against you have disadvantage.",Tusks,"When you succeed on an attack against a target within Melee range, you can **spend a Hope** to gore the target with your tusks, dealing an extra **1d6** damage."
 Ribbet,"Ribbets resemble anthropomorphic frogs with protruding eyes and webbed hands and feet. They have smooth (though sometimes warty) moist skin and eyes positioned on either side of their head. Some ribbets have hind legs more than twice the length of their torso, while others have short limbs. No matter their size (which ranges from about 3 feet to 4 ½ feet), ribbets primarily move by hopping. All ribbets have webbed appendages, allowing them to swim with ease. Some ribbets possess a natural green-and-brown camouflage, while others are vibrantly colored with bold patterns. No matter their appearance, all ribbets are born from eggs laid in the water, hatch into tadpoles, and after about 6 to 7 years, grow into amphibians that can move around on land. Ribbets live for approximately 100 years.",Amphibious,You can breathe and move naturally underwater.,Long Tongue,You can use your long tongue to grab onto things within Close range. **Mark a Stress** to use your tongue as a Finesse Close weapon that deals **d12** physical damage using your Proficiency.
 Simiah,"Simiah resemble anthropomorphic monkeys and apes with long limbs and prehensile feet. While their appearance reflects all simian creatures, from the largest gorilla to the smallest marmoset, their size does not align with their animal counterparts, and they can be anywhere from 2 to 6 feet tall. All simiah can use their dexterous feet for nonverbal communication, work, and combat. Additionally, some also have prehensile tails that can grasp objects or help with balance during dicult maneuvers. These traits grant members of this ancestry unique agility that aids them in a variety of physical tasks. In particular, simiah are skilled climbers and can easily transition from bipedal movement to knuckle-walking and climbing, and back again. On average, simiah live for about 100 years.",Natural Climber,You have advantage on Agility Rolls that involve balancing and climbing.,Nimble,Gain a permanent +1 bonus to your Evasion at character creation.
+Aetheris,"AETHERIS
+Aetheris are humanoids most easily recognized by their wings
+and sacred markings. They are the descendants of angels from
+the Hallows Above. Aetheris are typically 5 to 7 feet tall, and
+some may have elongated limbs. They often have vibrantly
+colored eyes, hair, and skin, though their coloring can include
+earth tones and pastels. Many members of this ancestry are
+born with sacred markings—such as glowing sigils or intricate
+patterns of lines and symbols—but all aetheris develop them
+as they mature. These symbols change as they age, often
+because of prophecies, revelations, and divine guidance from
+the Hallows Above.
+All aetheris have a “hallowed aura” that can manifest
+voluntarily, such as when they invoke their power, or
+involuntarily, such as when they feel elation or other strong
+emotions. When they call forth this radiance, their eyes
+and bodies might glow, their markings might become more
+prominent or shift across their skin, or they might have a halo
+appear atop or around their head. These halos are as unique
+as a fingerprint and may share similarities with other family
+members. Perhaps due to their angelic lineage, aetheris
+usually live for 350 years, and they retain a youthful glow even
+as they age.
+ANCESTRY FEATURES
+Hallowed Aura: Once per long rest when an ally within Close
+range rolls with Fear, you can change it into a roll with Hope
+instead.
+Celestial Wings: You have wings that allow you to fly. Once per
+scene while flying, you can spend a Hope instead of marking
+an Armor Slot.",,,,
+Earthkin,"EARTHKIN
+Earthkin are humanoids whose bodies are made of flesh and
+earth. Descended from earth elementals, members of this
+ancestry are formed of flesh and rock, crystal, clay, soil, sand,
+or a mixture of these materials. Some are primarily flesh and
+blood with just one earthen feature, such as skin the color or
+texture of stone or crystal formations that adorn their heads
+like hair. Others are a combination, often asymmetrical unions
+of muscle and natural minerals. Still others are almost entirely
+soil and stone. Earthkin might choose to mold and decorate the
+mineral portions of their form by carving designs, embedding
+gems or metals, or even planting seeds that bloom into
+adorning foliage. Their coloring comes from their elemental
+lineage, as even those who are more flesh than earth come in
+hues reminiscent of marble, gemstones, sand, soil, and more.
+These kin begin their lives as small lumps of earth, such as
+a boulder, a ball of clay, or a crystal cluster. Though they’ll
+develop their more humanoid features fairly quickly, earthkin
+age slowly for most of their approximately 300-year lifespan.
+Their average height at adulthood ranges from 5 to 6½ feet
+tall, and the shape of their body is strongly influenced by the
+primary material it’s composed of. Many earthkin’s injuries
+appear like fissures in stone; even long after the initial damage
+has healed, these cracks continue to slowly repair. When they
+die, earthkin eventually crumble into piles of earth.
+ANCESTRY FEATURES
+Stoneskin: Gain a permanent +1 bonus to your Armor Score
+and damage thresholds at character creation.
+Immovable: While you’re touching the ground, you can’t be
+lifted or moved against your will.",,,,
+Emberkin,"EMBERKIN
+Emberkin are humanoids whose bodies are made of flesh and
+fire. Descended from fire elementals, emberkin might manifest
+their fiery heritage through flaming hair, eyes like embers,
+luminous streams that dance across their skin, a smoking
+exterior, or a glow flickering through their muscles, veins,
+organs, or fingertips. All these features are known to shift or
+flare with their emotions, and some individuals’ characteristics
+might be more changeable than another’s. The coloring of their
+skin and hair resembles the hues of fire: bright red, orange,
+yellow, charcoal, or even hints of blue. Their ears curve and
+point like a tongue of fire, and they tend to be warmer in
+temperature, either purposefully or innately, with some even
+being hot to the touch.
+Infant emberkin resemble small balls of fire or cinders, and
+because they lack the skill to control their temperature,
+they often need to be placed in fireproof containment such
+as dragon eggs, hearths, and cookware. Their humanoid
+33
+Daggerheart SRD
+<!-- PDF page 34 -->
+characteristics develop throughout adolescence until they
+solidify into their adult form. Emberkin range from 5 to 7 feet
+tall and live about 250 years, their light and heat dimming as
+they age. When they pass, they blaze brightly for a moment,
+then burn to ash.
+ANCESTRY FEATURES
+Fireproof: You are immune to damage from magical or
+mundane flame.
+Ignition: Mark a Stress to wreathe your primary weapon in
+flame until the end of the scene. While the weapon is ablaze,
+it gives off a bright light, and you gain a 1d6  bonus to damage
+rolls with that weapon.",,,,
+Gnome,"GNOME
+Gnomes are typically small humanoids with conical heads
+and the ability to teleport short distances. While the average
+gnome is about 3 feet in height, their proportionately long arms
+and large hands give them an extended reach for their size.
+In contrast, their square frames have shorter torsos and legs.
+Alongside these characteristics, gnomes are easily identified
+by their softly pointed ears and wide eyes. Their heads are
+large, and the conical shape varies by family. Gnomes also
+inherit their minor teleportation ability from their parents, with
+families exhibiting their own manifestations when disappearing
+and reappearing. These effects can include small clouds of
+smoke, motes of light, or simply appearing to evaporate into
+thin air. Gnomes are known to begin grasping and holding
+objects from a very young age, and their hands remain
+dextrous over their 200-year lifespan even when their bodies
+have slowed from age.
+ANCESTRY FEATURES
+Nimble Fingers: When you make a Finesse Roll, you can spend
+2 Hope  to reroll your Hope Die.
+Flicker Step: Once per scene, you can teleport to another point
+you can see within Far range.",,,,
+Skykin,"SKYKIN
+Skykin are humanoids whose bodies are made of flesh and
+air. Descended from air elementals, skykin have color-shifting
+skin that reflects the pale grays and blues of a clear morning
+sky, the smoldering oranges and fuchsias of the setting sun, or
+the deep sables and purples of a star-dappled night. These kin
+often have semitranslucent skin, floating hair of wispy smoke
+or clouds, or small breezes constantly fluttering their clothing.
+The intensity of these characteristics heightens or lessens
+based on the strength of their emotions. Skykin grow to be
+5½ to 7 feet on average, and some have elongated features,
+including their pointed ears, necks, hands, feet, or limbs.
+Skykin are born as wisps of air or small clouds, often hard
+to see and hold. Until they mature and become more solid,
+they’re contained in jars and other such vessels. Though
+skykin become more humanoid throughout adolescence, their
+bodies remain flexible, and some adults can adjust their shape
+throughout their lives, though it takes time and effort. Skykin
+live for approximately 300 years, and when they breathe their
+last, they disappear into the air.
+ANCESTRY FEATURES
+Gale Force: Mark a Stress to conjure a gust of wind that
+carries you or a Very Close ally up to Very Far range.
+Additionally, you can always control the speed at which you
+fall.
+Eye of the Storm: Spend 2 Hope  to grant you or an ally within
+Melee range a +1 bonus to Evasion until you take Severe
+damage or you use this feature again.",,,,
+Tidekin,"TIDEKIN
+Tidekin are humanoids whose bodies are made of flesh and
+water. Descended from water elementals, tidekin possess
+finlike ears and webbing between their digits. The color of their
+skin, hair, and eyes reflects that of water’s many forms, with
+some exhibiting bright shades of aquas, greens, and seafoams
+like shallow rivers or tropical oceans, while others display dark
+blues and purples from the deepest oceans. For some, these
+colors shift beneath semitranslucent skin like waves. Tidekin
+might have water formations that adorn their heads like hair
+or waves that shift and move across their body. Instead of
+expressing emotions through tears, their water formations
+change with their emotional state, and they can purposefully or
+accidentally use their shifting colors or water formations as a
+method of nonverbal communication.
+Tidekin are born as a small amount of water, such as a puddle
+or liquid orb. As children, they’re often kept in watertight
+containers such as bowls and bottles, and they tend to have a
+fluid appearance throughout their childhood until they gain a
+more solid humanoid form around adolescence. Adult tidekin
+range from 5 to 6½ feet in height, though their general body
+shape is influenced by the fluidity of water and might change,
+with some effort, over their approximately 300-year lifespan.
+When members of this ancestry die, they dissolve into water
+and flow away.
+ANCESTRY FEATURES
+Amphibious: You can breathe and move naturally underwater.
+Lifespring: Once per rest when you have access to a small
+amount of water, you can mark a Stress to clear a Hit Point on
+yourself or an ally within Very Close range.",,,,

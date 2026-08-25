@@ -43,7 +43,7 @@
         "Falling Sky"
       ]
     ],
-    "description": "Arcana is the domain of **innate and instinctual** magic. Those who choose this path tap into the raw, enigmatic forces of the realms to manipulate both their own energy and the elements. Arcana oﬀers wielders a volatile power, but it is incredibly potent when correctly channeled. The Arcana domain can be accessed by the **Druid** and **Sorcerer** classes.",
+    "description": "Arcana is the domain of innate and instinctual magic. Those\nwho choose this path tap into the raw, enigmatic forces of the\nrealms to manipulate both their own energy and the elements.\nArcana offers wielders a volatile power, but it is incredibly\npotent when correctly channeled. The Arcana domain can be\naccessed by the Druid and Sorcerer classes.",
     "name": "Arcana"
   },
   {
@@ -90,7 +90,7 @@
         "Onslaught"
       ]
     ],
-    "description": "Blade is the domain of **weapon mastery.** Whether by steel, bow, or perhaps a more specialized arm, those who follow this path have the skill to cut short the lives of others. Wielders of Blade dedicate themselves to achieving inexorable power over death. The Blade domain can be accessed by the **Guardian** and **Warrior** classes.",
+    "description": "Blade is the domain of weapon mastery. Whether by steel,\nbow, or perhaps a more specialized arm, those who follow this\npath have the skill to cut short the lives of others. Wielders of\nBlade dedicate themselves to achieving inexorable power over\ndeath. The Blade domain can be accessed by the Assassin,\nGuardian, and Warrior classes.",
     "name": "Blade"
   },
   {
@@ -137,7 +137,7 @@
         "Swift Step"
       ]
     ],
-    "description": "Bone is the domain of **tactics and the body.** Practitioners of this domain have an uncanny control over their own physical abilities and an eye for predicting the behaviors of others in combat. Adherents to Bone gain an unparalleled understanding of bodies and their movements. The Bone domain can be accessed by the **Ranger** \u0026 **Warrior** classes.",
+    "description": "Bone is the domain of tactics and the body. Practitioners\nof this domain have an uncanny control over their own\nphysical abilities and an eye for predicting the behaviors of\nothers in combat. Adherents to Bone gain an unparalleled\nunderstanding of bodies and their movements. The Bone\ndomain can be accessed by the Brawler, Ranger, and Warrior\nclasses.",
     "name": "Bone"
   },
   {
@@ -184,8 +184,55 @@
         "Transcendent Union"
       ]
     ],
-    "description": "Codex is the domain of **intensive magical study.** Those who seek magical knowledge turn to the equations of power recorded in books, written on scrolls, etched into walls, or tattooed on bodies. Codex offers a commanding and versatile understanding of magic to devotees who pursue knowledge beyond the boundaries of common wisdom. The Codex domain can be accessed by the **Bard** and **Wizard** classes.",
+    "description": "Codex is the domain of intensive magical study. Those who\nseek magical knowledge turn to the equations of power\nrecorded in books, written on scrolls, etched into walls, or\ntattooed on bodies. Codex offers a commanding and versatile\nunderstanding of magic to devotees who pursue knowledge\nbeyond the boundaries of common wisdom. The Codex\ndomain can be accessed by the Bard and Wizard classes.",
     "name": "Codex"
+  },
+  {
+    "card": [
+      [
+        "Blighting Strike",
+        "Umbral Veil",
+        "Voice of Dread"
+      ],
+      [
+        "Hideous Retribution",
+        "Siphon Essence"
+      ],
+      [
+        "Shared Trauma",
+        "Terrify"
+      ],
+      [
+        "Chains of Affliction",
+        "Summon Horror"
+      ],
+      [
+        "Dire Strike",
+        "Spectral Mist"
+      ],
+      [
+        "Darkfire",
+        "Jump Scare"
+      ],
+      [
+        "Dread-Touched",
+        "Wall of Hunger"
+      ],
+      [
+        "Dark Army",
+        "Eldritch Flesh"
+      ],
+      [
+        "Damnation",
+        "Savor the Anguish"
+      ],
+      [
+        "Avatar of Terror",
+        "Invoke Torment"
+      ]
+    ],
+    "description": "Dread is the domain of nightmares and fear. Those who\nchoose this path can call forth monstrosities, enfeeble their\nfoes, and channel terrifying magic to destroy their enemies.\nDread grants its adherents power over forces most are too\nafraid to employ. The Dread domain can be accessed by the\nWarlock and Witch classes.",
+    "name": "Dread"
   },
   {
     "card": [
@@ -231,7 +278,7 @@
         "Notorious"
       ]
     ],
-    "description": "Grace is the domain of **charisma.** Through rapturous storytelling, charming spells, or a shroud of lies, those who channel this power define the realities of their adversaries, bending perception to their will. Grace offers its wielders raw magnetism and mastery over language. The Grace domain can be accessed by the **Bard** and **Rogue** classes",
+    "description": "Grace is the domain of charisma. Through rapturous\nstorytelling, charming spells, or a shroud of lies, those who\nchannel this power define the realities of their adversaries,\nbending perception to their will. Grace offers its wielders raw\nmagnetism and mastery over language. The Grace domain can\nbe accessed by the Bard, Rogue, and Warlock classes",
     "name": "Grace"
   },
   {
@@ -278,7 +325,7 @@
         "Specter of the Dark"
       ]
     ],
-    "description": "Midnight is the domain of **shadows and secrecy.** Whether by clever tricks, deft magic, or the cloak of night, those who channel these forces practice the art of obscurity and can uncover sequestered treasures. Midnight offers practitioners the power to control and create enigmas. The Midnight domain can be accessed by the **Rogue** and **Sorcerer** classes.",
+    "description": "Midnight is the domain of shadows and secrecy. Whether\nby clever tricks, deft magic, or the cloak of night, those who\nchannel these forces practice the art of obscurity and can\nuncover sequestered treasures. Midnight offers practitioners\nthe power to control and create enigmas. The Midnight\ndomain can be accessed by the Assassin, Rogue, and\nSorcerer classes.",
     "name": "Midnight"
   },
   {
@@ -325,7 +372,7 @@
         "Tempest"
       ]
     ],
-    "description": "Sage is the domain **of the natural world.** Those who walk this path tap into the unfettered power of the earth and its creatures to unleash raw magic. Sage grants its adherents the vitality of a blooming flower and the ferocity of a ravenous predator. The Sage domain can be accessed by the **Druid** and **Ranger** classes.",
+    "description": "Sage is the domain of the natural world. Those who walk\nthis path tap into the unfettered power of the earth and its\ncreatures to unleash raw magic. Sage grants its adherents\nthe vitality of a blooming flower and the ferocity of a ravenous\npredator. The Sage domain can be accessed by the Druid,\nRanger, and Witch classes.",
     "name": "Sage"
   },
   {
@@ -372,7 +419,7 @@
         "Resurrection"
       ]
     ],
-    "description": "Splendor is the domain of **life.** Through this magic, followers gain the ability to heal and, to an extent, control death. Splendor offers its disciples the magnificent ability to both give and end life. The Splendor domain can be accessed by the **Seraph** and **Wizard** classes.",
+    "description": "Splendor is the domain of life. Through this magic, followers\ngain the ability to heal and, to an extent, control death.\nSplendor offers its disciples the magnificent ability to both\ngive and end life. The Splendor domain can be accessed by the\nSeraph and Wizard classes.",
     "name": "Splendor"
   },
   {
@@ -419,7 +466,7 @@
         "Unyielding Armor"
       ]
     ],
-    "description": "Valor is the domain of **protection**. Whether through attack or defense, those who choose this discipline channel formidable strength to protect their allies in battle. Valor oﬀers great power to those who raise their shields in defense of others. The Valor domain can be accessed by the **Guardian** and **Seraph** classes.\n\n### CLASS DOMAINS\n\nEach class grants access to two domains:\n\n- **Bard:** Codex \u0026 Grace\n- **Druid:** Arcana \u0026 Sage\n- **Guardian:** Blade \u0026 Valor\n- **Ranger:** Bone \u0026 Sage\n- **Rogue:** Grace \u0026 Midnight\n- **Seraph:** Splendor \u0026 Valor\n- **Sorcerer:** Arcana \u0026 Midnight\n- **Warrior:** Blade \u0026 Bone\n- **Wizard:** Codex \u0026 Splendor\n\nPCs acquire two 1st-level domain cards at character creation and an additional domain card at or below their level each time they level up.\n\n### DOMAIN CARDS\n\nEach domain card provides one or more features your PC can utilize during their adventures. Some domain cards provide moves you can make, such as a unique attack or a spell. Others offer passive effects, new downtime or social encounter abilities, or one-time benefits.\n\n##### DOMAIN CARD ANATOMY\n\nEach domain card includes six elements:\n\n- **Level.** The number in the top left of the card indicates the card's level. You cannot acquire a domain card with a level higher than your PC's.\n- **Domain.** Beneath the card's level there is a symbol indicating its domain. You can only choose cards from your class's two domains.\n- **Recall Cost.** The number and lightning bolt in the top right of the card shows its Recall Cost. This is the amount of Stress a player must mark to swap this card from their **vault** with a card from their **loadout.** _**Note:** A player can swap domain cards during downtime without paying the domain card's Recall Cost._\n- **Title.** The name of the card.\n- **Type.** The card's **type** is listed in the center above the title. There are three types of domain cards: **abilities, spells,** and **grimoires.** Abilities are typically non-magical in nature, while spells are magical. Grimoires are unique to the Codex domain and grant access to a collection of less potent spells. Some game mechanics only apply to certain types of cards.\n- **Feature.** The text on the bottom half of the card describes its feature(s), including any special rules you need to follow when you use that card.\n\n##### LOADOUT \u0026 VAULT\n\nYour **loadout** is the set of acquired domain cards whose effects your PC can use during play. You can have up to 5 domain cards in your loadout at one time. Once you've acquired six or more domain cards, you must choose five to keep in your loadout; the rest are considered to be in your **vault.** Vault cards are inactive and do not influence play\n\n\u003e _**Note:** Your subclass, ancestry, and community cards don't count toward your loadout or vault and are always active and available._\n\nAt the start of a rest, before using downtime moves, you can freely move cards between your loadout and your vault, so long as your loadout doesn't exceed its five-card maximum.\n\nTo move a card from your vault to your loadout at any other time, you must mark a number of Stress equal to the vaulted card's **Recall Cost** (located in the top right of the card next to the lightning bolt symbol). If your loadout is already full, you must also move a card from your loadout to your vault to make space, though you can do this at no cost.\n\nWhen you gain a new domain card at level-up, you can immediately move it into your loadout for free. If your loadout is already full, you must also move a card from your loadout to your vault to make space.\n\n##### USAGE LIMITS\n\nIf a domain card restricts how often it can be used, you can track such limits with whatever method you prefer, such as turning the card sideways, flipping it facedown, or using tokens.\n\n\u003e _**Note:** if an effect or ability gives you a number of uses equal to a trait with a modifier of +0 or less, it grants you 0 uses._",
+    "description": "Valor is the domain of protection. Whether through attack or\ndefense, those who choose this discipline channel formidable\nstrength to protect their allies in battle. Valor offers great\npower to those who raise their shields in defense of others.\nThe Valor domain can be accessed by the Brawler, Guardian,\nand Seraph classes.\n7\nDaggerheart SRD",
     "name": "Valor"
   }
 ]

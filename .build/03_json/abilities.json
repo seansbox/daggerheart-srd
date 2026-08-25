@@ -1510,5 +1510,173 @@
     "recall": "1",
     "text": "When you would mark an Armor Slot, roll a number of **d6s** equal to your Proficiency. If any roll a 6, reduce the severity by one threshold without marking an Armor Slot.",
     "type": "Ability"
+  },
+  {
+    "domain": "Dread",
+    "level": "1",
+    "name": "Blighting Strike",
+    "recall": "1",
+    "text": "Make a Spellcast Roll against a target within Far range. On a\nsuccess:\n ◦ On a roll with Hope, deal d6+1  magic damage using your\nProficiency. On a roll with Fear, deal d10+1  magic damage\nusing your Proficiency.\n ◦ The target’s next successful attack deals half damage.\nOn a failure, you must spend a Hope or mark a Stress.",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "1",
+    "name": "Umbral Veil",
+    "recall": "1",
+    "text": "Once per rest, you can mark a Stress to encase yourself in\nshadowy energy. When you do, place a number of tokens on\nthis card equal to the number of Fear in the GM’s pool. After an\nattack roll is made against you, you can spend any number of\ntokens to give the result a −1 penalty per token spent.\nAt the end of the scene, clear all unspent tokens.",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "1",
+    "name": "Voice of Dread",
+    "recall": "0",
+    "text": "You can magically speak to a creature you can see, tormenting\nthem with your words. Make a Spellcast Roll against them. On\na success, they must mark a Stress and are frozen with terror,\nmaking them temporarily Restrained.",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "2",
+    "name": "Hideous Retribution",
+    "recall": "2",
+    "text": "When an ally within Close range takes damage from a target\nyou can see, you can make a reaction roll against the target\nusing your Spellcast trait. On a success, mark a Stress to deal\nd6  magic damage using your Proficiency.",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "2",
+    "name": "Siphon Essence",
+    "recall": "1",
+    "text": "Make a Spellcast Roll against a target within Very Close range.\nOnce per long rest on a success, the target takes d12+4  magic\ndamage using your Proficiency. On a success with Fear, you\ngain a +1 bonus to your Proficiency for this attack.\nYou clear a number of Hit Points equal to the number of Hit\nPoints the target marked from this attack.",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "3",
+    "name": "Shared Trauma",
+    "recall": "1",
+    "text": "You can transfer suffering from one creature to another. Once\nper rest, mark any number of Hit Points on a willing creature\nwithin Melee range to clear an equal number of Hit Points on\nanother willing creature within Melee range.",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "3",
+    "name": "Terrify",
+    "recall": "1",
+    "text": "Make a Spellcast Roll against a target within Close range. On\na success, the target marks 1d4  Stress, and you can make the\ntarget flee one range away from you (such as Very Close to\nClose or Close to Far). On a success with Fear, the target also\nbecomes temporarily Vulnerable.",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "4",
+    "name": "Chains of Affliction",
+    "recall": "2",
+    "text": "Mark 2 Stress  to temporarily Chain a target within Close\nrange. When a Chained creature deals damage, the target\nof their attack marks one fewer Hit Point than they normally\nwould. You can’t have more than one creature Chained at a\ntime.\n213\nDaggerheart SRD\n\u003c!-- PDF page 214 --\u003e\nSUMMON",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "4",
+    "name": "Summon Horror",
+    "recall": "2",
+    "text": "Once per scene,  mark a Stress to summon an otherworldly\ncreature that deals d8+1  magic damage using your Spellcast\ntrait to a target within Far range. If the target marks any Hit\nPoints from this attack, they must succeed on a Reaction Roll\n(12)  to steel themselves against the horror or mark an equal\nnumber of Stress.\nAfter making the attack, the creature dissipates.",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "5",
+    "name": "Dire Strike",
+    "recall": "2",
+    "text": "When a target marks any number of Hit Points from an attack\nyou make, you can spend a Hope to drain power from them.\nThe GM loses a Fear.",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "5",
+    "name": "Spectral Mist",
+    "recall": "0",
+    "text": "Spend 2 Hope  to conjure an eerie mist that turns you and allies\nof your choice within Close range momentarily incorporeal.\nWhile a creature is incorporeal, they can move through solid\nobjects and are immune to physical damage. They become\ncorporeal again after they pass through a solid object or make\nan action roll. Otherwise, this effect lasts until the end of the\nscene.",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "6",
+    "name": "Darkfire",
+    "recall": "2",
+    "text": "Once per scene,  spend any number of Hope to target an equal\nnumber of adversaries within Close range. Each target makes\na Reaction Roll (15) . T argets who fail take d8+6  magic damage\nusing your Spellcast trait as they are engulfed in dark fire.\nT argets who succeed take half damage.",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "6",
+    "name": "Jump Scare",
+    "recall": "1",
+    "text": "When you deal magic damage to a target, you can mark a\nStress to teleport into Melee range with them. When you do,\nthey are Vulnerable until they mark 1 or more Hit Points.",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "7",
+    "name": "Dread-Touched",
+    "recall": "2",
+    "text": "When 4 or more of the domain cards in your loadout are from\nthe Dread domain, gain the following benefits:\n ◦ When you succeed with Fear, you can mark 2 Stress  to\nprevent the GM from gaining a Fear.\n ◦ Once per rest when making an action roll, you can gain a\nbonus to the roll equal to the number of Fear in the GM’s\npool.",
+    "type": "Ability"
+  },
+  {
+    "domain": "Dread",
+    "level": "7",
+    "name": "Wall of Hunger",
+    "recall": "2",
+    "text": "Make a Spellcast Roll (10) . On a success, you can spend\na Hope to create a visible wall of writhing necrotic energy\nbetween two points within Far range. The wall lasts until you\nmark a Hit Point or cast this spell again. A creature inside the\nwall when it appears or that passes through it must mark 2\nStress.",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "8",
+    "name": "Dark Army",
+    "recall": "2",
+    "text": "Make a Spellcast Roll (14) . Once per long rest on a success,\nyou can summon fiends that surround and move with you.\nPlace 8 tokens on this card. When you deal damage to a\ntarget within Very Close range, you can spend any number\nof tokens to add 1d8  for each token spent to your damage\nroll. Additionally, when you take damage, you can spend any\nnumber of tokens to reduce the damage by 1d8  for each token\nspent. Each time you spend a token, a fiend acts on your\nbehalf, then disappears.\nWhen you take a rest, clear all unspent tokens.",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "8",
+    "name": "Eldritch Flesh",
+    "recall": "1",
+    "text": "Gain a +1 bonus to your damage thresholds for each Stress you\nhave marked.\nAdditionally, when you roll with Fear, you can spend 2 Hope  to\nclear an Armor Slot.",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "9",
+    "name": "Damnation",
+    "recall": "2",
+    "text": "Make a Spellcast Roll against a target within Far range. On a\nsuccess, mark any number of Stress to roll an equal number\nof d20s , dealing magic damage equal to the total result. If this\nattack defeats the target, all adversaries within Far range of\nthe target must mark a Stress.",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "9",
+    "name": "Savor the Anguish",
+    "recall": "1",
+    "text": "When an adversary within Close range takes Severe damage,\nyou can clear a Stress.",
+    "type": "Ability"
+  },
+  {
+    "domain": "Dread",
+    "level": "10",
+    "name": "Avatar of Terror",
+    "recall": "2",
+    "text": "Mark a Stress to transform into a creature fueled by fear.\nWhile in this form, you gain a 1d6  bonus to your damage rolls\nfor each Fear in the GM’s pool. Additionally, you gain a Hope\nwhen the GM spends a Fear to spotlight an adversary within\nVery Close range.\nBefore you make an action roll, you must spend a Hope. If you\ncan’t, you revert to your normal form.",
+    "type": "Spell"
+  },
+  {
+    "domain": "Dread",
+    "level": "10",
+    "name": "Invoke Torment",
+    "recall": "2",
+    "text": "You deal double damage to targets that have all their Stress\nmarked.\nAdditionally, when an adversary within Close range is defeated\nwith all its Stress marked, you gain a Hope..\n214\nDaggerheart SRD",
+    "type": "Ability"
   }
 ]
